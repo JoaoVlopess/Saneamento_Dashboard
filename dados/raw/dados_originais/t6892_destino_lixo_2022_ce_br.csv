@@ -1,0 +1,1304 @@
+NC;NN;D1C;D1N;D2C;D2N;D3C;D3N;D4C;D4N;MC;MN;V
+Nível Territorial (Código);Nível Territorial;Brasil, Unidade da Federação e Município (Código);Brasil, Unidade da Federação e Município;Variável (Código);Variável;Ano (Código);Ano;Destino do lixo (Código);Destino do lixo;Unidade de Medida (Código);Unidade de Medida;Valor
+1;Brasil;1;Brasil;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;72456368
+1;Brasil;1;Brasil;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;60221111
+1;Brasil;1;Brasil;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;6228376
+1;Brasil;1;Brasil;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;5151186
+1;Brasil;1;Brasil;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;194713
+1;Brasil;1;Brasil;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;430839
+1;Brasil;1;Brasil;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;230143
+3;Unidade da Federação;23;Ceará;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;3020374
+3;Unidade da Federação;23;Ceará;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;2330463
+3;Unidade da Federação;23;Ceará;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;251275
+3;Unidade da Federação;23;Ceará;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;391312
+3;Unidade da Federação;23;Ceará;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;10081
+3;Unidade da Federação;23;Ceará;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;30906
+3;Unidade da Federação;23;Ceará;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;6337
+6;Município;2300101;Abaiara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;3495
+6;Município;2300101;Abaiara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;1589
+6;Município;2300101;Abaiara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;191
+6;Município;2300101;Abaiara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1630
+6;Município;2300101;Abaiara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;42
+6;Município;2300101;Abaiara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;34
+6;Município;2300101;Abaiara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;9
+6;Município;2300150;Acarape - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;4439
+6;Município;2300150;Acarape - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;3715
+6;Município;2300150;Acarape - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;311
+6;Município;2300150;Acarape - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;361
+6;Município;2300150;Acarape - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;8
+6;Município;2300150;Acarape - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;41
+6;Município;2300150;Acarape - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;3
+6;Município;2300200;Acaraú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;20955
+6;Município;2300200;Acaraú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;11918
+6;Município;2300200;Acaraú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;2802
+6;Município;2300200;Acaraú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;5407
+6;Município;2300200;Acaraú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;545
+6;Município;2300200;Acaraú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;253
+6;Município;2300200;Acaraú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;30
+6;Município;2300309;Acopiara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;16398
+6;Município;2300309;Acopiara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;8687
+6;Município;2300309;Acopiara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;1608
+6;Município;2300309;Acopiara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;5719
+6;Município;2300309;Acopiara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;66
+6;Município;2300309;Acopiara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;306
+6;Município;2300309;Acopiara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;12
+6;Município;2300408;Aiuaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;4923
+6;Município;2300408;Aiuaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;2693
+6;Município;2300408;Aiuaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;233
+6;Município;2300408;Aiuaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1789
+6;Município;2300408;Aiuaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;16
+6;Município;2300408;Aiuaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;184
+6;Município;2300408;Aiuaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;8
+6;Município;2300507;Alcântaras - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;3780
+6;Município;2300507;Alcântaras - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;643
+6;Município;2300507;Alcântaras - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;2426
+6;Município;2300507;Alcântaras - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;587
+6;Município;2300507;Alcântaras - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;6
+6;Município;2300507;Alcântaras - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;112
+6;Município;2300507;Alcântaras - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;6
+6;Município;2300606;Altaneira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;2485
+6;Município;2300606;Altaneira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;2257
+6;Município;2300606;Altaneira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;9
+6;Município;2300606;Altaneira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;207
+6;Município;2300606;Altaneira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;3
+6;Município;2300606;Altaneira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;7
+6;Município;2300606;Altaneira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;2
+6;Município;2300705;Alto Santo - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;4972
+6;Município;2300705;Alto Santo - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;3234
+6;Município;2300705;Alto Santo - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;220
+6;Município;2300705;Alto Santo - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1467
+6;Município;2300705;Alto Santo - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;9
+6;Município;2300705;Alto Santo - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;31
+6;Município;2300705;Alto Santo - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;11
+6;Município;2300754;Amontada - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;13230
+6;Município;2300754;Amontada - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;2186
+6;Município;2300754;Amontada - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;4306
+6;Município;2300754;Amontada - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;5468
+6;Município;2300754;Amontada - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;782
+6;Município;2300754;Amontada - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;465
+6;Município;2300754;Amontada - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;23
+6;Município;2300804;Antonina do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;2594
+6;Município;2300804;Antonina do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;524
+6;Município;2300804;Antonina do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;1648
+6;Município;2300804;Antonina do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;379
+6;Município;2300804;Antonina do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;2
+6;Município;2300804;Antonina do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;41
+6;Município;2300804;Antonina do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;-
+6;Município;2300903;Apuiarés - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;4548
+6;Município;2300903;Apuiarés - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;1892
+6;Município;2300903;Apuiarés - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;1420
+6;Município;2300903;Apuiarés - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1198
+6;Município;2300903;Apuiarés - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;7
+6;Município;2300903;Apuiarés - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;31
+6;Município;2300903;Apuiarés - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;-
+6;Município;2301000;Aquiraz - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;27749
+6;Município;2301000;Aquiraz - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;22246
+6;Município;2301000;Aquiraz - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;2792
+6;Município;2301000;Aquiraz - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1911
+6;Município;2301000;Aquiraz - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;129
+6;Município;2301000;Aquiraz - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;565
+6;Município;2301000;Aquiraz - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;106
+6;Município;2301109;Aracati - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;26020
+6;Município;2301109;Aracati - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;22189
+6;Município;2301109;Aracati - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;836
+6;Município;2301109;Aracati - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;2544
+6;Município;2301109;Aracati - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;196
+6;Município;2301109;Aracati - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;177
+6;Município;2301109;Aracati - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;78
+6;Município;2301208;Aracoiaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;8711
+6;Município;2301208;Aracoiaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;4993
+6;Município;2301208;Aracoiaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;2593
+6;Município;2301208;Aracoiaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;978
+6;Município;2301208;Aracoiaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;13
+6;Município;2301208;Aracoiaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;127
+6;Município;2301208;Aracoiaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;7
+6;Município;2301257;Ararendá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;3960
+6;Município;2301257;Ararendá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;1742
+6;Município;2301257;Ararendá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;571
+6;Município;2301257;Ararendá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1564
+6;Município;2301257;Ararendá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;9
+6;Município;2301257;Ararendá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;63
+6;Município;2301257;Ararendá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;11
+6;Município;2301307;Araripe - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;6746
+6;Município;2301307;Araripe - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;4218
+6;Município;2301307;Araripe - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;95
+6;Município;2301307;Araripe - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;2263
+6;Município;2301307;Araripe - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;16
+6;Município;2301307;Araripe - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;115
+6;Município;2301307;Araripe - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;39
+6;Município;2301406;Aratuba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;3579
+6;Município;2301406;Aratuba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;1237
+6;Município;2301406;Aratuba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;1076
+6;Município;2301406;Aratuba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1131
+6;Município;2301406;Aratuba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;48
+6;Município;2301406;Aratuba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;80
+6;Município;2301406;Aratuba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;7
+6;Município;2301505;Arneiroz - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;2599
+6;Município;2301505;Arneiroz - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;879
+6;Município;2301505;Arneiroz - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;776
+6;Município;2301505;Arneiroz - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;906
+6;Município;2301505;Arneiroz - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;1
+6;Município;2301505;Arneiroz - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;33
+6;Município;2301505;Arneiroz - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;4
+6;Município;2301604;Assaré - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;7745
+6;Município;2301604;Assaré - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;4045
+6;Município;2301604;Assaré - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;1319
+6;Município;2301604;Assaré - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;2166
+6;Município;2301604;Assaré - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;11
+6;Município;2301604;Assaré - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;172
+6;Município;2301604;Assaré - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;32
+6;Município;2301703;Aurora - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;8422
+6;Município;2301703;Aurora - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;1869
+6;Município;2301703;Aurora - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;3041
+6;Município;2301703;Aurora - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;3364
+6;Município;2301703;Aurora - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;13
+6;Município;2301703;Aurora - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;126
+6;Município;2301703;Aurora - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;9
+6;Município;2301802;Baixio - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;2011
+6;Município;2301802;Baixio - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;837
+6;Município;2301802;Baixio - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;528
+6;Município;2301802;Baixio - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;628
+6;Município;2301802;Baixio - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;1
+6;Município;2301802;Baixio - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;12
+6;Município;2301802;Baixio - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;5
+6;Município;2301851;Banabuiú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;5585
+6;Município;2301851;Banabuiú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;3224
+6;Município;2301851;Banabuiú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;42
+6;Município;2301851;Banabuiú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;2214
+6;Município;2301851;Banabuiú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;23
+6;Município;2301851;Banabuiú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;73
+6;Município;2301851;Banabuiú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;9
+6;Município;2301901;Barbalha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;24142
+6;Município;2301901;Barbalha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;20629
+6;Município;2301901;Barbalha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;823
+6;Município;2301901;Barbalha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;2460
+6;Município;2301901;Barbalha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;36
+6;Município;2301901;Barbalha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;162
+6;Município;2301901;Barbalha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;32
+6;Município;2301950;Barreira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;7572
+6;Município;2301950;Barreira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;5195
+6;Município;2301950;Barreira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;873
+6;Município;2301950;Barreira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1376
+6;Município;2301950;Barreira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;56
+6;Município;2301950;Barreira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;68
+6;Município;2301950;Barreira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;4
+6;Município;2302008;Barro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;6946
+6;Município;2302008;Barro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;4673
+6;Município;2302008;Barro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;201
+6;Município;2302008;Barro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1984
+6;Município;2302008;Barro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;12
+6;Município;2302008;Barro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;47
+6;Município;2302008;Barro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;29
+6;Município;2302057;Barroquinha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;4755
+6;Município;2302057;Barroquinha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;2804
+6;Município;2302057;Barroquinha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;573
+6;Município;2302057;Barroquinha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1138
+6;Município;2302057;Barroquinha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;106
+6;Município;2302057;Barroquinha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;124
+6;Município;2302057;Barroquinha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;10
+6;Município;2302107;Baturité - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;11850
+6;Município;2302107;Baturité - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;7717
+6;Município;2302107;Baturité - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;2246
+6;Município;2302107;Baturité - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1798
+6;Município;2302107;Baturité - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;6
+6;Município;2302107;Baturité - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;79
+6;Município;2302107;Baturité - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;4
+6;Município;2302206;Beberibe - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;18251
+6;Município;2302206;Beberibe - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;11413
+6;Município;2302206;Beberibe - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;2332
+6;Município;2302206;Beberibe - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;3840
+6;Município;2302206;Beberibe - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;415
+6;Município;2302206;Beberibe - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;219
+6;Município;2302206;Beberibe - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;32
+6;Município;2302305;Bela Cruz - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;11009
+6;Município;2302305;Bela Cruz - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;4209
+6;Município;2302305;Bela Cruz - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;1653
+6;Município;2302305;Bela Cruz - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;4281
+6;Município;2302305;Bela Cruz - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;256
+6;Município;2302305;Bela Cruz - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;579
+6;Município;2302305;Bela Cruz - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;31
+6;Município;2302404;Boa Viagem - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;18079
+6;Município;2302404;Boa Viagem - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;5821
+6;Município;2302404;Boa Viagem - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;5407
+6;Município;2302404;Boa Viagem - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;6323
+6;Município;2302404;Boa Viagem - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;38
+6;Município;2302404;Boa Viagem - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;448
+6;Município;2302404;Boa Viagem - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;42
+6;Município;2302503;Brejo Santo - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;17032
+6;Município;2302503;Brejo Santo - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;12305
+6;Município;2302503;Brejo Santo - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;1308
+6;Município;2302503;Brejo Santo - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;3156
+6;Município;2302503;Brejo Santo - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;45
+6;Município;2302503;Brejo Santo - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;203
+6;Município;2302503;Brejo Santo - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;15
+6;Município;2302602;Camocim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;20367
+6;Município;2302602;Camocim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;14849
+6;Município;2302602;Camocim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;817
+6;Município;2302602;Camocim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;3996
+6;Município;2302602;Camocim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;301
+6;Município;2302602;Camocim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;328
+6;Município;2302602;Camocim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;76
+6;Município;2302701;Campos Sales - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;8972
+6;Município;2302701;Campos Sales - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;2411
+6;Município;2302701;Campos Sales - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;4593
+6;Município;2302701;Campos Sales - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1782
+6;Município;2302701;Campos Sales - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;11
+6;Município;2302701;Campos Sales - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;157
+6;Município;2302701;Campos Sales - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;18
+6;Município;2302800;Canindé - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;25279
+6;Município;2302800;Canindé - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;12184
+6;Município;2302800;Canindé - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;5083
+6;Município;2302800;Canindé - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;7511
+6;Município;2302800;Canindé - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;29
+6;Município;2302800;Canindé - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;405
+6;Município;2302800;Canindé - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;67
+6;Município;2302909;Capistrano - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;5914
+6;Município;2302909;Capistrano - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;1926
+6;Município;2302909;Capistrano - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;1896
+6;Município;2302909;Capistrano - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1974
+6;Município;2302909;Capistrano - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;11
+6;Município;2302909;Capistrano - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;104
+6;Município;2302909;Capistrano - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;3
+6;Município;2303006;Caridade - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;5354
+6;Município;2303006;Caridade - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;2900
+6;Município;2303006;Caridade - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;1107
+6;Município;2303006;Caridade - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1202
+6;Município;2303006;Caridade - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;6
+6;Município;2303006;Caridade - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;127
+6;Município;2303006;Caridade - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;12
+6;Município;2303105;Cariré - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;6137
+6;Município;2303105;Cariré - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;3064
+6;Município;2303105;Cariré - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;1756
+6;Município;2303105;Cariré - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1247
+6;Município;2303105;Cariré - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;2
+6;Município;2303105;Cariré - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;67
+6;Município;2303105;Cariré - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;1
+6;Município;2303204;Caririaçu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;8814
+6;Município;2303204;Caririaçu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;5369
+6;Município;2303204;Caririaçu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;184
+6;Município;2303204;Caririaçu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;3138
+6;Município;2303204;Caririaçu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;21
+6;Município;2303204;Caririaçu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;65
+6;Município;2303204;Caririaçu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;37
+6;Município;2303303;Cariús - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;6290
+6;Município;2303303;Cariús - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;4021
+6;Município;2303303;Cariús - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;521
+6;Município;2303303;Cariús - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1588
+6;Município;2303303;Cariús - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;7
+6;Município;2303303;Cariús - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;137
+6;Município;2303303;Cariús - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;16
+6;Município;2303402;Carnaubal - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;5722
+6;Município;2303402;Carnaubal - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;687
+6;Município;2303402;Carnaubal - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;4435
+6;Município;2303402;Carnaubal - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;531
+6;Município;2303402;Carnaubal - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;8
+6;Município;2303402;Carnaubal - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;45
+6;Município;2303402;Carnaubal - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;16
+6;Município;2303501;Cascavel - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;25306
+6;Município;2303501;Cascavel - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;19787
+6;Município;2303501;Cascavel - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;1435
+6;Município;2303501;Cascavel - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;3597
+6;Município;2303501;Cascavel - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;256
+6;Município;2303501;Cascavel - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;191
+6;Município;2303501;Cascavel - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;40
+6;Município;2303600;Catarina - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;3651
+6;Município;2303600;Catarina - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;841
+6;Município;2303600;Catarina - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;1612
+6;Município;2303600;Catarina - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1092
+6;Município;2303600;Catarina - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;4
+6;Município;2303600;Catarina - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;100
+6;Município;2303600;Catarina - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;2
+6;Município;2303659;Catunda - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;3432
+6;Município;2303659;Catunda - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;2080
+6;Município;2303659;Catunda - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;131
+6;Município;2303659;Catunda - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1157
+6;Município;2303659;Catunda - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;5
+6;Município;2303659;Catunda - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;47
+6;Município;2303659;Catunda - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;12
+6;Município;2303709;Caucaia - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;120668
+6;Município;2303709;Caucaia - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;105549
+6;Município;2303709;Caucaia - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;7246
+6;Município;2303709;Caucaia - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;4575
+6;Município;2303709;Caucaia - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;117
+6;Município;2303709;Caucaia - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;2254
+6;Município;2303709;Caucaia - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;927
+6;Município;2303808;Cedro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;8075
+6;Município;2303808;Cedro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;5342
+6;Município;2303808;Cedro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;157
+6;Município;2303808;Cedro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;2453
+6;Município;2303808;Cedro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;13
+6;Município;2303808;Cedro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;76
+6;Município;2303808;Cedro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;34
+6;Município;2303907;Chaval - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;3922
+6;Município;2303907;Chaval - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;3047
+6;Município;2303907;Chaval - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;2
+6;Município;2303907;Chaval - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;789
+6;Município;2303907;Chaval - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;12
+6;Município;2303907;Chaval - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;63
+6;Município;2303907;Chaval - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;9
+6;Município;2303931;Choró - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;3997
+6;Município;2303931;Choró - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;561
+6;Município;2303931;Choró - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;549
+6;Município;2303931;Choró - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;2693
+6;Município;2303931;Choró - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;12
+6;Município;2303931;Choró - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;175
+6;Município;2303931;Choró - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;7
+6;Município;2303956;Chorozinho - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;7143
+6;Município;2303956;Chorozinho - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;4053
+6;Município;2303956;Chorozinho - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;1667
+6;Município;2303956;Chorozinho - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1270
+6;Município;2303956;Chorozinho - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;88
+6;Município;2303956;Chorozinho - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;64
+6;Município;2303956;Chorozinho - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;1
+6;Município;2304004;Coreaú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;7031
+6;Município;2304004;Coreaú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;4188
+6;Município;2304004;Coreaú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;616
+6;Município;2304004;Coreaú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;2010
+6;Município;2304004;Coreaú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;15
+6;Município;2304004;Coreaú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;191
+6;Município;2304004;Coreaú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;11
+6;Município;2304103;Crateús - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;27119
+6;Município;2304103;Crateús - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;21427
+6;Município;2304103;Crateús - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;416
+6;Município;2304103;Crateús - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;4947
+6;Município;2304103;Crateús - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;31
+6;Município;2304103;Crateús - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;233
+6;Município;2304103;Crateús - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;65
+6;Município;2304202;Crato - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;44610
+6;Município;2304202;Crato - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;39949
+6;Município;2304202;Crato - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;885
+6;Município;2304202;Crato - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;2988
+6;Município;2304202;Crato - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;72
+6;Município;2304202;Crato - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;447
+6;Município;2304202;Crato - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;269
+6;Município;2304236;Croatá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;6103
+6;Município;2304236;Croatá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;5324
+6;Município;2304236;Croatá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;184
+6;Município;2304236;Croatá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;463
+6;Município;2304236;Croatá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;34
+6;Município;2304236;Croatá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;94
+6;Município;2304236;Croatá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;4
+6;Município;2304251;Cruz - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;10352
+6;Município;2304251;Cruz - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;7118
+6;Município;2304251;Cruz - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;713
+6;Município;2304251;Cruz - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;2160
+6;Município;2304251;Cruz - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;236
+6;Município;2304251;Cruz - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;103
+6;Município;2304251;Cruz - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;22
+6;Município;2304269;Deputado Irapuan Pinheiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;3344
+6;Município;2304269;Deputado Irapuan Pinheiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;1981
+6;Município;2304269;Deputado Irapuan Pinheiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;91
+6;Município;2304269;Deputado Irapuan Pinheiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1179
+6;Município;2304269;Deputado Irapuan Pinheiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;11
+6;Município;2304269;Deputado Irapuan Pinheiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;79
+6;Município;2304269;Deputado Irapuan Pinheiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;3
+6;Município;2304277;Ereré - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;2248
+6;Município;2304277;Ereré - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;1489
+6;Município;2304277;Ereré - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;5
+6;Município;2304277;Ereré - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;726
+6;Município;2304277;Ereré - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;2
+6;Município;2304277;Ereré - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;22
+6;Município;2304277;Ereré - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;4
+6;Município;2304285;Eusébio - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;25105
+6;Município;2304285;Eusébio - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;24333
+6;Município;2304285;Eusébio - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;647
+6;Município;2304285;Eusébio - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;55
+6;Município;2304285;Eusébio - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;7
+6;Município;2304285;Eusébio - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;56
+6;Município;2304285;Eusébio - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;7
+6;Município;2304301;Farias Brito - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;6414
+6;Município;2304301;Farias Brito - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;4869
+6;Município;2304301;Farias Brito - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;245
+6;Município;2304301;Farias Brito - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1231
+6;Município;2304301;Farias Brito - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;3
+6;Município;2304301;Farias Brito - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;62
+6;Município;2304301;Farias Brito - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;4
+6;Município;2304350;Forquilha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;8102
+6;Município;2304350;Forquilha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;6029
+6;Município;2304350;Forquilha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;899
+6;Município;2304350;Forquilha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1096
+6;Município;2304350;Forquilha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;6
+6;Município;2304350;Forquilha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;65
+6;Município;2304350;Forquilha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;7
+6;Município;2304400;Fortaleza - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;860139
+6;Município;2304400;Fortaleza - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;818051
+6;Município;2304400;Fortaleza - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;38783
+6;Município;2304400;Fortaleza - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;238
+6;Município;2304400;Fortaleza - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;32
+6;Município;2304400;Fortaleza - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;2391
+6;Município;2304400;Fortaleza - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;644
+6;Município;2304459;Fortim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;5938
+6;Município;2304459;Fortim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;3651
+6;Município;2304459;Fortim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;1640
+6;Município;2304459;Fortim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;516
+6;Município;2304459;Fortim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;83
+6;Município;2304459;Fortim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;22
+6;Município;2304459;Fortim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;26
+6;Município;2304509;Frecheirinha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;5420
+6;Município;2304509;Frecheirinha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;1751
+6;Município;2304509;Frecheirinha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;2552
+6;Município;2304509;Frecheirinha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;977
+6;Município;2304509;Frecheirinha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;16
+6;Município;2304509;Frecheirinha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;103
+6;Município;2304509;Frecheirinha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;21
+6;Município;2304608;General Sampaio - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;2193
+6;Município;2304608;General Sampaio - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;1510
+6;Município;2304608;General Sampaio - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;21
+6;Município;2304608;General Sampaio - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;618
+6;Município;2304608;General Sampaio - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;4
+6;Município;2304608;General Sampaio - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;36
+6;Município;2304608;General Sampaio - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;4
+6;Município;2304657;Graça - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;4832
+6;Município;2304657;Graça - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;2676
+6;Município;2304657;Graça - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;269
+6;Município;2304657;Graça - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1737
+6;Município;2304657;Graça - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;33
+6;Município;2304657;Graça - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;105
+6;Município;2304657;Graça - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;12
+6;Município;2304707;Granja - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;17092
+6;Município;2304707;Granja - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;4993
+6;Município;2304707;Granja - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;3526
+6;Município;2304707;Granja - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;7570
+6;Município;2304707;Granja - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;83
+6;Município;2304707;Granja - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;869
+6;Município;2304707;Granja - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;51
+6;Município;2304806;Granjeiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;1540
+6;Município;2304806;Granjeiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;918
+6;Município;2304806;Granjeiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;154
+6;Município;2304806;Granjeiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;436
+6;Município;2304806;Granjeiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;3
+6;Município;2304806;Granjeiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;27
+6;Município;2304806;Granjeiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;2
+6;Município;2304905;Groaíras - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;4009
+6;Município;2304905;Groaíras - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;1188
+6;Município;2304905;Groaíras - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;2063
+6;Município;2304905;Groaíras - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;705
+6;Município;2304905;Groaíras - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;5
+6;Município;2304905;Groaíras - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;43
+6;Município;2304905;Groaíras - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;5
+6;Município;2304954;Guaiúba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;7757
+6;Município;2304954;Guaiúba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;5695
+6;Município;2304954;Guaiúba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;1393
+6;Município;2304954;Guaiúba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;526
+6;Município;2304954;Guaiúba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;3
+6;Município;2304954;Guaiúba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;130
+6;Município;2304954;Guaiúba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;10
+6;Município;2305001;Guaraciaba do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;13494
+6;Município;2305001;Guaraciaba do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;8872
+6;Município;2305001;Guaraciaba do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;2817
+6;Município;2305001;Guaraciaba do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1530
+6;Município;2305001;Guaraciaba do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;60
+6;Município;2305001;Guaraciaba do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;187
+6;Município;2305001;Guaraciaba do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;28
+6;Município;2305100;Guaramiranga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;1916
+6;Município;2305100;Guaramiranga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;1460
+6;Município;2305100;Guaramiranga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;304
+6;Município;2305100;Guaramiranga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;144
+6;Município;2305100;Guaramiranga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;-
+6;Município;2305100;Guaramiranga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;7
+6;Município;2305100;Guaramiranga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;1
+6;Município;2305209;Hidrolândia - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;6340
+6;Município;2305209;Hidrolândia - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;4196
+6;Município;2305209;Hidrolândia - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;174
+6;Município;2305209;Hidrolândia - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1811
+6;Município;2305209;Hidrolândia - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;8
+6;Município;2305209;Hidrolândia - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;140
+6;Município;2305209;Hidrolândia - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;11
+6;Município;2305233;Horizonte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;25611
+6;Município;2305233;Horizonte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;24628
+6;Município;2305233;Horizonte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;377
+6;Município;2305233;Horizonte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;515
+6;Município;2305233;Horizonte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;54
+6;Município;2305233;Horizonte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;33
+6;Município;2305233;Horizonte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;4
+6;Município;2305266;Ibaretama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;4021
+6;Município;2305266;Ibaretama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;1508
+6;Município;2305266;Ibaretama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;459
+6;Município;2305266;Ibaretama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1957
+6;Município;2305266;Ibaretama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;14
+6;Município;2305266;Ibaretama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;80
+6;Município;2305266;Ibaretama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;3
+6;Município;2305308;Ibiapina - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;7898
+6;Município;2305308;Ibiapina - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;5275
+6;Município;2305308;Ibiapina - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;1765
+6;Município;2305308;Ibiapina - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;766
+6;Município;2305308;Ibiapina - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;14
+6;Município;2305308;Ibiapina - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;71
+6;Município;2305308;Ibiapina - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;7
+6;Município;2305332;Ibicuitinga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;4074
+6;Município;2305332;Ibicuitinga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;2666
+6;Município;2305332;Ibicuitinga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;369
+6;Município;2305332;Ibicuitinga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;921
+6;Município;2305332;Ibicuitinga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;16
+6;Município;2305332;Ibicuitinga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;95
+6;Município;2305332;Ibicuitinga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;7
+6;Município;2305357;Icapuí - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;7177
+6;Município;2305357;Icapuí - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;6792
+6;Município;2305357;Icapuí - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;38
+6;Município;2305357;Icapuí - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;294
+6;Município;2305357;Icapuí - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;26
+6;Município;2305357;Icapuí - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;22
+6;Município;2305357;Icapuí - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;5
+6;Município;2305407;Icó - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;21424
+6;Município;2305407;Icó - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;11295
+6;Município;2305407;Icó - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;2313
+6;Município;2305407;Icó - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;7477
+6;Município;2305407;Icó - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;58
+6;Município;2305407;Icó - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;257
+6;Município;2305407;Icó - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;24
+6;Município;2305506;Iguatu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;34954
+6;Município;2305506;Iguatu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;29961
+6;Município;2305506;Iguatu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;726
+6;Município;2305506;Iguatu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;3934
+6;Município;2305506;Iguatu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;15
+6;Município;2305506;Iguatu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;281
+6;Município;2305506;Iguatu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;37
+6;Município;2305605;Independência - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;8466
+6;Município;2305605;Independência - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;3978
+6;Município;2305605;Independência - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;77
+6;Município;2305605;Independência - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;4205
+6;Município;2305605;Independência - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;40
+6;Município;2305605;Independência - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;142
+6;Município;2305605;Independência - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;24
+6;Município;2305654;Ipaporanga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;4296
+6;Município;2305654;Ipaporanga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;2358
+6;Município;2305654;Ipaporanga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;916
+6;Município;2305654;Ipaporanga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;954
+6;Município;2305654;Ipaporanga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;9
+6;Município;2305654;Ipaporanga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;56
+6;Município;2305654;Ipaporanga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;3
+6;Município;2305704;Ipaumirim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;4072
+6;Município;2305704;Ipaumirim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;383
+6;Município;2305704;Ipaumirim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;2587
+6;Município;2305704;Ipaumirim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1064
+6;Município;2305704;Ipaumirim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;8
+6;Município;2305704;Ipaumirim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;25
+6;Município;2305704;Ipaumirim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;5
+6;Município;2305803;Ipu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;13935
+6;Município;2305803;Ipu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;11141
+6;Município;2305803;Ipu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;432
+6;Município;2305803;Ipu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;2132
+6;Município;2305803;Ipu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;30
+6;Município;2305803;Ipu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;191
+6;Município;2305803;Ipu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;9
+6;Município;2305902;Ipueiras - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;13285
+6;Município;2305902;Ipueiras - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;7709
+6;Município;2305902;Ipueiras - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;155
+6;Município;2305902;Ipueiras - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;4760
+6;Município;2305902;Ipueiras - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;131
+6;Município;2305902;Ipueiras - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;448
+6;Município;2305902;Ipueiras - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;82
+6;Município;2306009;Iracema - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;4795
+6;Município;2306009;Iracema - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;3712
+6;Município;2306009;Iracema - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;228
+6;Município;2306009;Iracema - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;798
+6;Município;2306009;Iracema - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;3
+6;Município;2306009;Iracema - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;42
+6;Município;2306009;Iracema - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;12
+6;Município;2306108;Irauçuba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;7330
+6;Município;2306108;Irauçuba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;5340
+6;Município;2306108;Irauçuba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;361
+6;Município;2306108;Irauçuba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1502
+6;Município;2306108;Irauçuba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;16
+6;Município;2306108;Irauçuba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;95
+6;Município;2306108;Irauçuba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;16
+6;Município;2306207;Itaiçaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;2816
+6;Município;2306207;Itaiçaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;2698
+6;Município;2306207;Itaiçaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;31
+6;Município;2306207;Itaiçaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;85
+6;Município;2306207;Itaiçaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;1
+6;Município;2306207;Itaiçaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;1
+6;Município;2306207;Itaiçaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;-
+6;Município;2306256;Itaitinga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;19522
+6;Município;2306256;Itaitinga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;16275
+6;Município;2306256;Itaitinga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;2909
+6;Município;2306256;Itaitinga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;287
+6;Município;2306256;Itaitinga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;8
+6;Município;2306256;Itaitinga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;27
+6;Município;2306256;Itaitinga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;16
+6;Município;2306306;Itapajé - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;15629
+6;Município;2306306;Itapajé - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;12447
+6;Município;2306306;Itapajé - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;1090
+6;Município;2306306;Itapajé - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1873
+6;Município;2306306;Itapajé - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;31
+6;Município;2306306;Itapajé - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;170
+6;Município;2306306;Itapajé - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;18
+6;Município;2306405;Itapipoca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;41579
+6;Município;2306405;Itapipoca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;25840
+6;Município;2306405;Itapipoca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;3826
+6;Município;2306405;Itapipoca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;10190
+6;Município;2306405;Itapipoca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;802
+6;Município;2306405;Itapipoca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;715
+6;Município;2306405;Itapipoca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;206
+6;Município;2306504;Itapiúna - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;6115
+6;Município;2306504;Itapiúna - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;2224
+6;Município;2306504;Itapiúna - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;1596
+6;Município;2306504;Itapiúna - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;2175
+6;Município;2306504;Itapiúna - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;16
+6;Município;2306504;Itapiúna - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;95
+6;Município;2306504;Itapiúna - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;9
+6;Município;2306553;Itarema - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;12954
+6;Município;2306553;Itarema - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;6246
+6;Município;2306553;Itarema - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;1759
+6;Município;2306553;Itarema - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;3863
+6;Município;2306553;Itarema - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;907
+6;Município;2306553;Itarema - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;153
+6;Município;2306553;Itarema - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;26
+6;Município;2306603;Itatira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;6688
+6;Município;2306603;Itatira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;2475
+6;Município;2306603;Itatira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;1099
+6;Município;2306603;Itatira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;2776
+6;Município;2306603;Itatira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;9
+6;Município;2306603;Itatira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;312
+6;Município;2306603;Itatira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;17
+6;Município;2306702;Jaguaretama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;6050
+6;Município;2306702;Jaguaretama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;3150
+6;Município;2306702;Jaguaretama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;140
+6;Município;2306702;Jaguaretama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;2669
+6;Município;2306702;Jaguaretama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;22
+6;Município;2306702;Jaguaretama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;55
+6;Município;2306702;Jaguaretama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;14
+6;Município;2306801;Jaguaribara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;3361
+6;Município;2306801;Jaguaribara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;2353
+6;Município;2306801;Jaguaribara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;504
+6;Município;2306801;Jaguaribara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;479
+6;Município;2306801;Jaguaribara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;3
+6;Município;2306801;Jaguaribara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;19
+6;Município;2306801;Jaguaribara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;3
+6;Município;2306900;Jaguaribe - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;12399
+6;Município;2306900;Jaguaribe - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;8686
+6;Município;2306900;Jaguaribe - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;261
+6;Município;2306900;Jaguaribe - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;3331
+6;Município;2306900;Jaguaribe - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;46
+6;Município;2306900;Jaguaribe - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;54
+6;Município;2306900;Jaguaribe - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;21
+6;Município;2307007;Jaguaruana - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;11726
+6;Município;2307007;Jaguaruana - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;10693
+6;Município;2307007;Jaguaruana - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;100
+6;Município;2307007;Jaguaruana - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;820
+6;Município;2307007;Jaguaruana - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;20
+6;Município;2307007;Jaguaruana - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;67
+6;Município;2307007;Jaguaruana - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;26
+6;Município;2307106;Jardim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;8745
+6;Município;2307106;Jardim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;4473
+6;Município;2307106;Jardim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;444
+6;Município;2307106;Jardim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;3672
+6;Município;2307106;Jardim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;52
+6;Município;2307106;Jardim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;61
+6;Município;2307106;Jardim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;43
+6;Município;2307205;Jati - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;2620
+6;Município;2307205;Jati - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;1790
+6;Município;2307205;Jati - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;387
+6;Município;2307205;Jati - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;424
+6;Município;2307205;Jati - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;1
+6;Município;2307205;Jati - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;8
+6;Município;2307205;Jati - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;10
+6;Município;2307254;Jijoca de Jericoacoara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;8795
+6;Município;2307254;Jijoca de Jericoacoara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;7030
+6;Município;2307254;Jijoca de Jericoacoara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;351
+6;Município;2307254;Jijoca de Jericoacoara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1269
+6;Município;2307254;Jijoca de Jericoacoara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;80
+6;Município;2307254;Jijoca de Jericoacoara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;46
+6;Município;2307254;Jijoca de Jericoacoara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;19
+6;Município;2307304;Juazeiro do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;97385
+6;Município;2307304;Juazeiro do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;93173
+6;Município;2307304;Juazeiro do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;1655
+6;Município;2307304;Juazeiro do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1750
+6;Município;2307304;Juazeiro do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;27
+6;Município;2307304;Juazeiro do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;421
+6;Município;2307304;Juazeiro do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;359
+6;Município;2307403;Jucás - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;8224
+6;Município;2307403;Jucás - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;5015
+6;Município;2307403;Jucás - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;1262
+6;Município;2307403;Jucás - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1865
+6;Município;2307403;Jucás - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;9
+6;Município;2307403;Jucás - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;65
+6;Município;2307403;Jucás - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;8
+6;Município;2307502;Lavras da Mangabeira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;10477
+6;Município;2307502;Lavras da Mangabeira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;4748
+6;Município;2307502;Lavras da Mangabeira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;2083
+6;Município;2307502;Lavras da Mangabeira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;3433
+6;Município;2307502;Lavras da Mangabeira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;40
+6;Município;2307502;Lavras da Mangabeira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;140
+6;Município;2307502;Lavras da Mangabeira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;33
+6;Município;2307601;Limoeiro do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;21437
+6;Município;2307601;Limoeiro do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;19876
+6;Município;2307601;Limoeiro do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;332
+6;Município;2307601;Limoeiro do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1116
+6;Município;2307601;Limoeiro do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;13
+6;Município;2307601;Limoeiro do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;73
+6;Município;2307601;Limoeiro do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;27
+6;Município;2307635;Madalena - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;5603
+6;Município;2307635;Madalena - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;3719
+6;Município;2307635;Madalena - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;155
+6;Município;2307635;Madalena - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1647
+6;Município;2307635;Madalena - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;14
+6;Município;2307635;Madalena - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;62
+6;Município;2307635;Madalena - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;6
+6;Município;2307650;Maracanaú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;79675
+6;Município;2307650;Maracanaú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;78118
+6;Município;2307650;Maracanaú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;571
+6;Município;2307650;Maracanaú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;484
+6;Município;2307650;Maracanaú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;11
+6;Município;2307650;Maracanaú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;336
+6;Município;2307650;Maracanaú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;155
+6;Município;2307700;Maranguape - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;35066
+6;Município;2307700;Maranguape - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;30434
+6;Município;2307700;Maranguape - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;2706
+6;Município;2307700;Maranguape - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1573
+6;Município;2307700;Maranguape - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;18
+6;Município;2307700;Maranguape - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;188
+6;Município;2307700;Maranguape - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;147
+6;Município;2307809;Marco - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;7594
+6;Município;2307809;Marco - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;5856
+6;Município;2307809;Marco - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;504
+6;Município;2307809;Marco - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1139
+6;Município;2307809;Marco - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;19
+6;Município;2307809;Marco - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;71
+6;Município;2307809;Marco - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;5
+6;Município;2307908;Martinópole - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;3698
+6;Município;2307908;Martinópole - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;48
+6;Município;2307908;Martinópole - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;2492
+6;Município;2307908;Martinópole - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;699
+6;Município;2307908;Martinópole - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;9
+6;Município;2307908;Martinópole - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;446
+6;Município;2307908;Martinópole - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;4
+6;Município;2308005;Massapê - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;12335
+6;Município;2308005;Massapê - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;8467
+6;Município;2308005;Massapê - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;1586
+6;Município;2308005;Massapê - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;2006
+6;Município;2308005;Massapê - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;11
+6;Município;2308005;Massapê - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;175
+6;Município;2308005;Massapê - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;90
+6;Município;2308104;Mauriti - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;14873
+6;Município;2308104;Mauriti - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;9435
+6;Município;2308104;Mauriti - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;735
+6;Município;2308104;Mauriti - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;4374
+6;Município;2308104;Mauriti - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;97
+6;Município;2308104;Mauriti - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;194
+6;Município;2308104;Mauriti - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;38
+6;Município;2308203;Meruoca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;4824
+6;Município;2308203;Meruoca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;2283
+6;Município;2308203;Meruoca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;1727
+6;Município;2308203;Meruoca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;668
+6;Município;2308203;Meruoca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;33
+6;Município;2308203;Meruoca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;98
+6;Município;2308203;Meruoca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;15
+6;Município;2308302;Milagres - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;8755
+6;Município;2308302;Milagres - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;4721
+6;Município;2308302;Milagres - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;566
+6;Município;2308302;Milagres - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;3158
+6;Município;2308302;Milagres - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;143
+6;Município;2308302;Milagres - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;142
+6;Município;2308302;Milagres - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;25
+6;Município;2308351;Milhã - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;4660
+6;Município;2308351;Milhã - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;2318
+6;Município;2308351;Milhã - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;481
+6;Município;2308351;Milhã - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1815
+6;Município;2308351;Milhã - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;7
+6;Município;2308351;Milhã - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;17
+6;Município;2308351;Milhã - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;22
+6;Município;2308377;Miraíma - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;4259
+6;Município;2308377;Miraíma - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;2467
+6;Município;2308377;Miraíma - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;562
+6;Município;2308377;Miraíma - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1110
+6;Município;2308377;Miraíma - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;11
+6;Município;2308377;Miraíma - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;105
+6;Município;2308377;Miraíma - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;4
+6;Município;2308401;Missão Velha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;11841
+6;Município;2308401;Missão Velha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;6487
+6;Município;2308401;Missão Velha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;956
+6;Município;2308401;Missão Velha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;4224
+6;Município;2308401;Missão Velha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;62
+6;Município;2308401;Missão Velha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;99
+6;Município;2308401;Missão Velha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;13
+6;Município;2308500;Mombaça - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;13653
+6;Município;2308500;Mombaça - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;7304
+6;Município;2308500;Mombaça - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;793
+6;Município;2308500;Mombaça - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;5148
+6;Município;2308500;Mombaça - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;20
+6;Município;2308500;Mombaça - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;373
+6;Município;2308500;Mombaça - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;15
+6;Município;2308609;Monsenhor Tabosa - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;5827
+6;Município;2308609;Monsenhor Tabosa - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;3592
+6;Município;2308609;Monsenhor Tabosa - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;184
+6;Município;2308609;Monsenhor Tabosa - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1948
+6;Município;2308609;Monsenhor Tabosa - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;32
+6;Município;2308609;Monsenhor Tabosa - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;57
+6;Município;2308609;Monsenhor Tabosa - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;14
+6;Município;2308708;Morada Nova - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;22663
+6;Município;2308708;Morada Nova - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;16282
+6;Município;2308708;Morada Nova - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;529
+6;Município;2308708;Morada Nova - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;5401
+6;Município;2308708;Morada Nova - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;49
+6;Município;2308708;Morada Nova - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;376
+6;Município;2308708;Morada Nova - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;26
+6;Município;2308807;Moraújo - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;2710
+6;Município;2308807;Moraújo - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;888
+6;Município;2308807;Moraújo - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;955
+6;Município;2308807;Moraújo - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;733
+6;Município;2308807;Moraújo - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;5
+6;Município;2308807;Moraújo - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;120
+6;Município;2308807;Moraújo - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;9
+6;Município;2308906;Morrinhos - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;7285
+6;Município;2308906;Morrinhos - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;4913
+6;Município;2308906;Morrinhos - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;138
+6;Município;2308906;Morrinhos - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1958
+6;Município;2308906;Morrinhos - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;69
+6;Município;2308906;Morrinhos - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;192
+6;Município;2308906;Morrinhos - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;15
+6;Município;2309003;Mucambo - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;4994
+6;Município;2309003;Mucambo - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;3897
+6;Município;2309003;Mucambo - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;275
+6;Município;2309003;Mucambo - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;726
+6;Município;2309003;Mucambo - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;20
+6;Município;2309003;Mucambo - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;69
+6;Município;2309003;Mucambo - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;7
+6;Município;2309102;Mulungu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;3332
+6;Município;2309102;Mulungu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;2051
+6;Município;2309102;Mulungu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;867
+6;Município;2309102;Mulungu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;328
+6;Município;2309102;Mulungu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;8
+6;Município;2309102;Mulungu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;73
+6;Município;2309102;Mulungu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;5
+6;Município;2309201;Nova Olinda - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;5178
+6;Município;2309201;Nova Olinda - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;4486
+6;Município;2309201;Nova Olinda - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;40
+6;Município;2309201;Nova Olinda - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;621
+6;Município;2309201;Nova Olinda - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;12
+6;Município;2309201;Nova Olinda - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;13
+6;Município;2309201;Nova Olinda - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;6
+6;Município;2309300;Nova Russas - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;10843
+6;Município;2309300;Nova Russas - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;9101
+6;Município;2309300;Nova Russas - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;176
+6;Município;2309300;Nova Russas - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1467
+6;Município;2309300;Nova Russas - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;5
+6;Município;2309300;Nova Russas - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;81
+6;Município;2309300;Nova Russas - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;13
+6;Município;2309409;Novo Oriente - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;9816
+6;Município;2309409;Novo Oriente - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;6939
+6;Município;2309409;Novo Oriente - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;209
+6;Município;2309409;Novo Oriente - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;2556
+6;Município;2309409;Novo Oriente - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;24
+6;Município;2309409;Novo Oriente - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;80
+6;Município;2309409;Novo Oriente - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;8
+6;Município;2309458;Ocara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;8790
+6;Município;2309458;Ocara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;5804
+6;Município;2309458;Ocara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;1254
+6;Município;2309458;Ocara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1617
+6;Município;2309458;Ocara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;66
+6;Município;2309458;Ocara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;40
+6;Município;2309458;Ocara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;9
+6;Município;2309508;Orós - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;7171
+6;Município;2309508;Orós - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;5723
+6;Município;2309508;Orós - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;346
+6;Município;2309508;Orós - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1069
+6;Município;2309508;Orós - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;1
+6;Município;2309508;Orós - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;29
+6;Município;2309508;Orós - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;3
+6;Município;2309607;Pacajus - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;24053
+6;Município;2309607;Pacajus - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;21329
+6;Município;2309607;Pacajus - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;1153
+6;Município;2309607;Pacajus - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1274
+6;Município;2309607;Pacajus - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;85
+6;Município;2309607;Pacajus - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;111
+6;Município;2309607;Pacajus - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;101
+6;Município;2309706;Pacatuba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;27103
+6;Município;2309706;Pacatuba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;22810
+6;Município;2309706;Pacatuba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;3232
+6;Município;2309706;Pacatuba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;662
+6;Município;2309706;Pacatuba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;11
+6;Município;2309706;Pacatuba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;372
+6;Município;2309706;Pacatuba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;16
+6;Município;2309805;Pacoti - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;3663
+6;Município;2309805;Pacoti - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;2598
+6;Município;2309805;Pacoti - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;741
+6;Município;2309805;Pacoti - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;270
+6;Município;2309805;Pacoti - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;6
+6;Município;2309805;Pacoti - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;45
+6;Município;2309805;Pacoti - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;3
+6;Município;2309904;Pacujá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;2199
+6;Município;2309904;Pacujá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;1834
+6;Município;2309904;Pacujá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;8
+6;Município;2309904;Pacujá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;329
+6;Município;2309904;Pacujá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;2
+6;Município;2309904;Pacujá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;21
+6;Município;2309904;Pacujá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;5
+6;Município;2310001;Palhano - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;3256
+6;Município;2310001;Palhano - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;2002
+6;Município;2310001;Palhano - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;19
+6;Município;2310001;Palhano - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1201
+6;Município;2310001;Palhano - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;7
+6;Município;2310001;Palhano - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;13
+6;Município;2310001;Palhano - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;14
+6;Município;2310100;Palmácia - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;3378
+6;Município;2310100;Palmácia - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;1987
+6;Município;2310100;Palmácia - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;398
+6;Município;2310100;Palmácia - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;866
+6;Município;2310100;Palmácia - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;12
+6;Município;2310100;Palmácia - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;113
+6;Município;2310100;Palmácia - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;2
+6;Município;2310209;Paracuru - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;12982
+6;Município;2310209;Paracuru - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;11162
+6;Município;2310209;Paracuru - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;553
+6;Município;2310209;Paracuru - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;992
+6;Município;2310209;Paracuru - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;138
+6;Município;2310209;Paracuru - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;109
+6;Município;2310209;Paracuru - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;28
+6;Município;2310258;Paraipaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;10786
+6;Município;2310258;Paraipaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;7424
+6;Município;2310258;Paraipaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;1201
+6;Município;2310258;Paraipaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1918
+6;Município;2310258;Paraipaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;169
+6;Município;2310258;Paraipaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;58
+6;Município;2310258;Paraipaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;16
+6;Município;2310308;Parambu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;11134
+6;Município;2310308;Parambu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;4773
+6;Município;2310308;Parambu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;1225
+6;Município;2310308;Parambu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;4751
+6;Município;2310308;Parambu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;48
+6;Município;2310308;Parambu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;314
+6;Município;2310308;Parambu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;23
+6;Município;2310407;Paramoti - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;3566
+6;Município;2310407;Paramoti - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;1831
+6;Município;2310407;Paramoti - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;332
+6;Município;2310407;Paramoti - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1320
+6;Município;2310407;Paramoti - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;7
+6;Município;2310407;Paramoti - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;72
+6;Município;2310407;Paramoti - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;4
+6;Município;2310506;Pedra Branca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;14235
+6;Município;2310506;Pedra Branca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;7695
+6;Município;2310506;Pedra Branca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;1647
+6;Município;2310506;Pedra Branca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;4690
+6;Município;2310506;Pedra Branca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;6
+6;Município;2310506;Pedra Branca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;180
+6;Município;2310506;Pedra Branca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;17
+6;Município;2310605;Penaforte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;2919
+6;Município;2310605;Penaforte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;2068
+6;Município;2310605;Penaforte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;454
+6;Município;2310605;Penaforte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;378
+6;Município;2310605;Penaforte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;-
+6;Município;2310605;Penaforte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;11
+6;Município;2310605;Penaforte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;8
+6;Município;2310704;Pentecoste - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;12719
+6;Município;2310704;Pentecoste - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;6570
+6;Município;2310704;Pentecoste - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;2097
+6;Município;2310704;Pentecoste - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;3851
+6;Município;2310704;Pentecoste - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;40
+6;Município;2310704;Pentecoste - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;130
+6;Município;2310704;Pentecoste - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;31
+6;Município;2310803;Pereiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;5281
+6;Município;2310803;Pereiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;2797
+6;Município;2310803;Pereiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;173
+6;Município;2310803;Pereiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;2268
+6;Município;2310803;Pereiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;11
+6;Município;2310803;Pereiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;26
+6;Município;2310803;Pereiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;6
+6;Município;2310852;Pindoretama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;7999
+6;Município;2310852;Pindoretama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;6636
+6;Município;2310852;Pindoretama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;646
+6;Município;2310852;Pindoretama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;582
+6;Município;2310852;Pindoretama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;54
+6;Município;2310852;Pindoretama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;75
+6;Município;2310852;Pindoretama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;6
+6;Município;2310902;Piquet Carneiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;5737
+6;Município;2310902;Piquet Carneiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;3603
+6;Município;2310902;Piquet Carneiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;59
+6;Município;2310902;Piquet Carneiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1899
+6;Município;2310902;Piquet Carneiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;31
+6;Município;2310902;Piquet Carneiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;117
+6;Município;2310902;Piquet Carneiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;28
+6;Município;2310951;Pires Ferreira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;3261
+6;Município;2310951;Pires Ferreira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;913
+6;Município;2310951;Pires Ferreira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;1597
+6;Município;2310951;Pires Ferreira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;723
+6;Município;2310951;Pires Ferreira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;8
+6;Município;2310951;Pires Ferreira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;18
+6;Município;2310951;Pires Ferreira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;2
+6;Município;2311009;Poranga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;4214
+6;Município;2311009;Poranga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;2645
+6;Município;2311009;Poranga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;92
+6;Município;2311009;Poranga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1358
+6;Município;2311009;Poranga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;35
+6;Município;2311009;Poranga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;79
+6;Município;2311009;Poranga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;5
+6;Município;2311108;Porteiras - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;5565
+6;Município;2311108;Porteiras - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;2940
+6;Município;2311108;Porteiras - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;182
+6;Município;2311108;Porteiras - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;2385
+6;Município;2311108;Porteiras - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;31
+6;Município;2311108;Porteiras - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;22
+6;Município;2311108;Porteiras - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;5
+6;Município;2311207;Potengi - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;3133
+6;Município;2311207;Potengi - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;1498
+6;Município;2311207;Potengi - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;696
+6;Município;2311207;Potengi - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;868
+6;Município;2311207;Potengi - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;4
+6;Município;2311207;Potengi - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;55
+6;Município;2311207;Potengi - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;12
+6;Município;2311231;Potiretama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;2131
+6;Município;2311231;Potiretama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;1276
+6;Município;2311231;Potiretama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;438
+6;Município;2311231;Potiretama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;381
+6;Município;2311231;Potiretama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;5
+6;Município;2311231;Potiretama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;30
+6;Município;2311231;Potiretama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;1
+6;Município;2311264;Quiterianópolis - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;6944
+6;Município;2311264;Quiterianópolis - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;3483
+6;Município;2311264;Quiterianópolis - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;162
+6;Município;2311264;Quiterianópolis - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;3023
+6;Município;2311264;Quiterianópolis - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;28
+6;Município;2311264;Quiterianópolis - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;232
+6;Município;2311264;Quiterianópolis - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;16
+6;Município;2311306;Quixadá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;28971
+6;Município;2311306;Quixadá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;21969
+6;Município;2311306;Quixadá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;911
+6;Município;2311306;Quixadá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;5719
+6;Município;2311306;Quixadá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;69
+6;Município;2311306;Quixadá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;227
+6;Município;2311306;Quixadá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;76
+6;Município;2311355;Quixelô - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;5839
+6;Município;2311355;Quixelô - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;2691
+6;Município;2311355;Quixelô - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;28
+6;Município;2311355;Quixelô - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;3051
+6;Município;2311355;Quixelô - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;10
+6;Município;2311355;Quixelô - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;57
+6;Município;2311355;Quixelô - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;2
+6;Município;2311405;Quixeramobim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;28609
+6;Município;2311405;Quixeramobim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;16948
+6;Município;2311405;Quixeramobim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;2345
+6;Município;2311405;Quixeramobim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;8829
+6;Município;2311405;Quixeramobim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;57
+6;Município;2311405;Quixeramobim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;379
+6;Município;2311405;Quixeramobim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;51
+6;Município;2311504;Quixeré - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;7743
+6;Município;2311504;Quixeré - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;6360
+6;Município;2311504;Quixeré - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;838
+6;Município;2311504;Quixeré - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;508
+6;Município;2311504;Quixeré - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;5
+6;Município;2311504;Quixeré - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;24
+6;Município;2311504;Quixeré - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;8
+6;Município;2311603;Redenção - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;9138
+6;Município;2311603;Redenção - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;6272
+6;Município;2311603;Redenção - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;1422
+6;Município;2311603;Redenção - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1312
+6;Município;2311603;Redenção - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;23
+6;Município;2311603;Redenção - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;96
+6;Município;2311603;Redenção - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;13
+6;Município;2311702;Reriutaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;6583
+6;Município;2311702;Reriutaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;2618
+6;Município;2311702;Reriutaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;2187
+6;Município;2311702;Reriutaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1617
+6;Município;2311702;Reriutaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;16
+6;Município;2311702;Reriutaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;132
+6;Município;2311702;Reriutaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;13
+6;Município;2311801;Russas - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;26409
+6;Município;2311801;Russas - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;22340
+6;Município;2311801;Russas - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;1765
+6;Município;2311801;Russas - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;2105
+6;Município;2311801;Russas - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;21
+6;Município;2311801;Russas - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;103
+6;Município;2311801;Russas - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;75
+6;Município;2311900;Saboeiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;4926
+6;Município;2311900;Saboeiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;1865
+6;Município;2311900;Saboeiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;1057
+6;Município;2311900;Saboeiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1746
+6;Município;2311900;Saboeiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;6
+6;Município;2311900;Saboeiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;130
+6;Município;2311900;Saboeiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;122
+6;Município;2311959;Salitre - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;5367
+6;Município;2311959;Salitre - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;1150
+6;Município;2311959;Salitre - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;1163
+6;Município;2311959;Salitre - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;2796
+6;Município;2311959;Salitre - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;40
+6;Município;2311959;Salitre - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;197
+6;Município;2311959;Salitre - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;21
+6;Município;2312007;Santana do Acaraú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;9656
+6;Município;2312007;Santana do Acaraú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;3646
+6;Município;2312007;Santana do Acaraú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;1294
+6;Município;2312007;Santana do Acaraú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;4142
+6;Município;2312007;Santana do Acaraú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;111
+6;Município;2312007;Santana do Acaraú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;445
+6;Município;2312007;Santana do Acaraú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;18
+6;Município;2312106;Santana do Cariri - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;5630
+6;Município;2312106;Santana do Cariri - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;3491
+6;Município;2312106;Santana do Cariri - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;197
+6;Município;2312106;Santana do Cariri - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1800
+6;Município;2312106;Santana do Cariri - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;28
+6;Município;2312106;Santana do Cariri - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;78
+6;Município;2312106;Santana do Cariri - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;36
+6;Município;2312205;Santa Quitéria - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;13977
+6;Município;2312205;Santa Quitéria - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;7722
+6;Município;2312205;Santa Quitéria - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;1770
+6;Município;2312205;Santa Quitéria - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;3951
+6;Município;2312205;Santa Quitéria - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;25
+6;Município;2312205;Santa Quitéria - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;466
+6;Município;2312205;Santa Quitéria - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;43
+6;Município;2312304;São Benedito - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;15616
+6;Município;2312304;São Benedito - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;8926
+6;Município;2312304;São Benedito - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;5017
+6;Município;2312304;São Benedito - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1148
+6;Município;2312304;São Benedito - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;55
+6;Município;2312304;São Benedito - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;454
+6;Município;2312304;São Benedito - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;16
+6;Município;2312403;São Gonçalo do Amarante - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;17957
+6;Município;2312403;São Gonçalo do Amarante - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;15507
+6;Município;2312403;São Gonçalo do Amarante - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;799
+6;Município;2312403;São Gonçalo do Amarante - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1441
+6;Município;2312403;São Gonçalo do Amarante - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;64
+6;Município;2312403;São Gonçalo do Amarante - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;128
+6;Município;2312403;São Gonçalo do Amarante - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;18
+6;Município;2312502;São João do Jaguaribe - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;2371
+6;Município;2312502;São João do Jaguaribe - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;1373
+6;Município;2312502;São João do Jaguaribe - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;87
+6;Município;2312502;São João do Jaguaribe - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;888
+6;Município;2312502;São João do Jaguaribe - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;2
+6;Município;2312502;São João do Jaguaribe - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;17
+6;Município;2312502;São João do Jaguaribe - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;4
+6;Município;2312601;São Luís do Curu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;3865
+6;Município;2312601;São Luís do Curu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;2217
+6;Município;2312601;São Luís do Curu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;845
+6;Município;2312601;São Luís do Curu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;746
+6;Município;2312601;São Luís do Curu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;4
+6;Município;2312601;São Luís do Curu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;45
+6;Município;2312601;São Luís do Curu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;8
+6;Município;2312700;Senador Pompeu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;8958
+6;Município;2312700;Senador Pompeu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;4955
+6;Município;2312700;Senador Pompeu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;1290
+6;Município;2312700;Senador Pompeu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;2584
+6;Município;2312700;Senador Pompeu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;24
+6;Município;2312700;Senador Pompeu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;100
+6;Município;2312700;Senador Pompeu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;5
+6;Município;2312809;Senador Sá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;2426
+6;Município;2312809;Senador Sá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;1723
+6;Município;2312809;Senador Sá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;135
+6;Município;2312809;Senador Sá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;539
+6;Município;2312809;Senador Sá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;6
+6;Município;2312809;Senador Sá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;22
+6;Município;2312809;Senador Sá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;1
+6;Município;2312908;Sobral - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;68018
+6;Município;2312908;Sobral - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;61617
+6;Município;2312908;Sobral - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;2740
+6;Município;2312908;Sobral - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;3105
+6;Município;2312908;Sobral - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;25
+6;Município;2312908;Sobral - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;418
+6;Município;2312908;Sobral - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;113
+6;Município;2313005;Solonópole - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;6590
+6;Município;2313005;Solonópole - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;2669
+6;Município;2313005;Solonópole - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;1126
+6;Município;2313005;Solonópole - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;2740
+6;Município;2313005;Solonópole - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;5
+6;Município;2313005;Solonópole - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;42
+6;Município;2313005;Solonópole - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;8
+6;Município;2313104;Tabuleiro do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;11737
+6;Município;2313104;Tabuleiro do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;8230
+6;Município;2313104;Tabuleiro do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;1001
+6;Município;2313104;Tabuleiro do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;2308
+6;Município;2313104;Tabuleiro do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;33
+6;Município;2313104;Tabuleiro do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;128
+6;Município;2313104;Tabuleiro do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;37
+6;Município;2313203;Tamboril - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;8624
+6;Município;2313203;Tamboril - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;3118
+6;Município;2313203;Tamboril - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;2344
+6;Município;2313203;Tamboril - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;2976
+6;Município;2313203;Tamboril - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;34
+6;Município;2313203;Tamboril - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;133
+6;Município;2313203;Tamboril - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;19
+6;Município;2313252;Tarrafas - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;2661
+6;Município;2313252;Tarrafas - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;1959
+6;Município;2313252;Tarrafas - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;2
+6;Município;2313252;Tarrafas - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;643
+6;Município;2313252;Tarrafas - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;1
+6;Município;2313252;Tarrafas - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;54
+6;Município;2313252;Tarrafas - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;2
+6;Município;2313302;Tauá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;21105
+6;Município;2313302;Tauá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;14827
+6;Município;2313302;Tauá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;585
+6;Município;2313302;Tauá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;5235
+6;Município;2313302;Tauá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;60
+6;Município;2313302;Tauá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;330
+6;Município;2313302;Tauá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;68
+6;Município;2313351;Tejuçuoca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;5603
+6;Município;2313351;Tejuçuoca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;3263
+6;Município;2313351;Tejuçuoca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;545
+6;Município;2313351;Tejuçuoca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1725
+6;Município;2313351;Tejuçuoca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;11
+6;Município;2313351;Tejuçuoca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;38
+6;Município;2313351;Tejuçuoca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;21
+6;Município;2313401;Tianguá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;25654
+6;Município;2313401;Tianguá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;19722
+6;Município;2313401;Tianguá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;2435
+6;Município;2313401;Tianguá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;3068
+6;Município;2313401;Tianguá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;50
+6;Município;2313401;Tianguá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;256
+6;Município;2313401;Tianguá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;123
+6;Município;2313500;Trairi - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;18908
+6;Município;2313500;Trairi - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;12636
+6;Município;2313500;Trairi - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;978
+6;Município;2313500;Trairi - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;4550
+6;Município;2313500;Trairi - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;419
+6;Município;2313500;Trairi - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;286
+6;Município;2313500;Trairi - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;39
+6;Município;2313559;Tururu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;5077
+6;Município;2313559;Tururu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;1734
+6;Município;2313559;Tururu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;1823
+6;Município;2313559;Tururu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1380
+6;Município;2313559;Tururu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;66
+6;Município;2313559;Tururu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;69
+6;Município;2313559;Tururu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;5
+6;Município;2313609;Ubajara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;10508
+6;Município;2313609;Ubajara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;5539
+6;Município;2313609;Ubajara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;3673
+6;Município;2313609;Ubajara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1207
+6;Município;2313609;Ubajara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;31
+6;Município;2313609;Ubajara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;41
+6;Município;2313609;Ubajara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;17
+6;Município;2313708;Umari - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;2406
+6;Município;2313708;Umari - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;1458
+6;Município;2313708;Umari - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;322
+6;Município;2313708;Umari - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;607
+6;Município;2313708;Umari - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;6
+6;Município;2313708;Umari - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;11
+6;Município;2313708;Umari - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;2
+6;Município;2313757;Umirim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;5656
+6;Município;2313757;Umirim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;3398
+6;Município;2313757;Umirim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;387
+6;Município;2313757;Umirim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1648
+6;Município;2313757;Umirim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;24
+6;Município;2313757;Umirim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;184
+6;Município;2313757;Umirim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;15
+6;Município;2313807;Uruburetama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;6399
+6;Município;2313807;Uruburetama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;3824
+6;Município;2313807;Uruburetama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;1793
+6;Município;2313807;Uruburetama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;586
+6;Município;2313807;Uruburetama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;25
+6;Município;2313807;Uruburetama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;154
+6;Município;2313807;Uruburetama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;17
+6;Município;2313906;Uruoca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;4664
+6;Município;2313906;Uruoca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;1045
+6;Município;2313906;Uruoca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;1988
+6;Município;2313906;Uruoca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;1433
+6;Município;2313906;Uruoca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;9
+6;Município;2313906;Uruoca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;185
+6;Município;2313906;Uruoca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;4
+6;Município;2313955;Varjota - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;6118
+6;Município;2313955;Varjota - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;5453
+6;Município;2313955;Varjota - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;299
+6;Município;2313955;Varjota - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;310
+6;Município;2313955;Varjota - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;4
+6;Município;2313955;Varjota - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;49
+6;Município;2313955;Varjota - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;3
+6;Município;2314003;Várzea Alegre - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;14046
+6;Município;2314003;Várzea Alegre - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;9936
+6;Município;2314003;Várzea Alegre - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;244
+6;Município;2314003;Várzea Alegre - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;3712
+6;Município;2314003;Várzea Alegre - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;17
+6;Município;2314003;Várzea Alegre - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;100
+6;Município;2314003;Várzea Alegre - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;37
+6;Município;2314102;Viçosa do Ceará - CE;381;Domicílios particulares permanentes ocupados;2022;2022;10972;Total;1020;Unidades;18273
+6;Município;2314102;Viçosa do Ceará - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72120;Coletado no domicílio por serviço de limpeza;1020;Unidades;5195
+6;Município;2314102;Viçosa do Ceará - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72121;Depositado em caçamba de serviço de limpeza;1020;Unidades;3449
+6;Município;2314102;Viçosa do Ceará - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72122;Queimado na propriedade;1020;Unidades;8848
+6;Município;2314102;Viçosa do Ceará - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72123;Enterrado na propriedade;1020;Unidades;124
+6;Município;2314102;Viçosa do Ceará - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72124;Jogado em terreno baldio, encosta ou área pública;1020;Unidades;575
+6;Município;2314102;Viçosa do Ceará - CE;381;Domicílios particulares permanentes ocupados;2022;2022;1091;Outro destino;1020;Unidades;82

@@ -1,0 +1,560 @@
+NC;NN;D1C;D1N;D2C;D2N;D3C;D3N;MC;MN;V
+Nível Territorial (Código);Nível Territorial;Brasil, Unidade da Federação e Município (Código);Brasil, Unidade da Federação e Município;Variável (Código);Variável;Ano (Código);Ano;Unidade de Medida (Código);Unidade de Medida;Valor
+1;Brasil;1;Brasil;93;População residente;2022;2022;45;Pessoas;203080756
+1;Brasil;1;Brasil;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;8510417.771
+1;Brasil;1;Brasil;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;23.86
+3;Unidade da Federação;23;Ceará;93;População residente;2022;2022;45;Pessoas;8794957
+3;Unidade da Federação;23;Ceará;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;148894.447
+3;Unidade da Federação;23;Ceará;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;59.07
+6;Município;2300101;Abaiara - CE;93;População residente;2022;2022;45;Pessoas;10038
+6;Município;2300101;Abaiara - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;180.833
+6;Município;2300101;Abaiara - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;55.51
+6;Município;2300150;Acarape - CE;93;População residente;2022;2022;45;Pessoas;14027
+6;Município;2300150;Acarape - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;130.002
+6;Município;2300150;Acarape - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;107.90
+6;Município;2300200;Acaraú - CE;93;População residente;2022;2022;45;Pessoas;65264
+6;Município;2300200;Acaraú - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;842.471
+6;Município;2300200;Acaraú - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;77.47
+6;Município;2300309;Acopiara - CE;93;População residente;2022;2022;45;Pessoas;44962
+6;Município;2300309;Acopiara - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;2254.279
+6;Município;2300309;Acopiara - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;19.95
+6;Município;2300408;Aiuaba - CE;93;População residente;2022;2022;45;Pessoas;14076
+6;Município;2300408;Aiuaba - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;2438.563
+6;Município;2300408;Aiuaba - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;5.77
+6;Município;2300507;Alcântaras - CE;93;População residente;2022;2022;45;Pessoas;11369
+6;Município;2300507;Alcântaras - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;135.760
+6;Município;2300507;Alcântaras - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;83.74
+6;Município;2300606;Altaneira - CE;93;População residente;2022;2022;45;Pessoas;6782
+6;Município;2300606;Altaneira - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;72.675
+6;Município;2300606;Altaneira - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;93.32
+6;Município;2300705;Alto Santo - CE;93;População residente;2022;2022;45;Pessoas;14155
+6;Município;2300705;Alto Santo - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;1147.208
+6;Município;2300705;Alto Santo - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;12.34
+6;Município;2300754;Amontada - CE;93;População residente;2022;2022;45;Pessoas;42156
+6;Município;2300754;Amontada - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;1175.044
+6;Município;2300754;Amontada - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;35.88
+6;Município;2300804;Antonina do Norte - CE;93;População residente;2022;2022;45;Pessoas;7245
+6;Município;2300804;Antonina do Norte - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;259.706
+6;Município;2300804;Antonina do Norte - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;27.90
+6;Município;2300903;Apuiarés - CE;93;População residente;2022;2022;45;Pessoas;12928
+6;Município;2300903;Apuiarés - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;543.980
+6;Município;2300903;Apuiarés - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;23.77
+6;Município;2301000;Aquiraz - CE;93;População residente;2022;2022;45;Pessoas;80645
+6;Município;2301000;Aquiraz - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;480.236
+6;Município;2301000;Aquiraz - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;167.93
+6;Município;2301109;Aracati - CE;93;População residente;2022;2022;45;Pessoas;75113
+6;Município;2301109;Aracati - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;1227.197
+6;Município;2301109;Aracati - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;61.21
+6;Município;2301208;Aracoiaba - CE;93;População residente;2022;2022;45;Pessoas;25553
+6;Município;2301208;Aracoiaba - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;643.988
+6;Município;2301208;Aracoiaba - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;39.68
+6;Município;2301257;Ararendá - CE;93;População residente;2022;2022;45;Pessoas;11096
+6;Município;2301257;Ararendá - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;342.301
+6;Município;2301257;Ararendá - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;32.42
+6;Município;2301307;Araripe - CE;93;População residente;2022;2022;45;Pessoas;19783
+6;Município;2301307;Araripe - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;1097.339
+6;Município;2301307;Araripe - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;18.03
+6;Município;2301406;Aratuba - CE;93;População residente;2022;2022;45;Pessoas;11224
+6;Município;2301406;Aratuba - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;119.758
+6;Município;2301406;Aratuba - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;93.72
+6;Município;2301505;Arneiroz - CE;93;População residente;2022;2022;45;Pessoas;7429
+6;Município;2301505;Arneiroz - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;1068.437
+6;Município;2301505;Arneiroz - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;6.95
+6;Município;2301604;Assaré - CE;93;População residente;2022;2022;45;Pessoas;21697
+6;Município;2301604;Assaré - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;1155.124
+6;Município;2301604;Assaré - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;18.78
+6;Município;2301703;Aurora - CE;93;População residente;2022;2022;45;Pessoas;23714
+6;Município;2301703;Aurora - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;885.870
+6;Município;2301703;Aurora - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;26.77
+6;Município;2301802;Baixio - CE;93;População residente;2022;2022;45;Pessoas;5704
+6;Município;2301802;Baixio - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;145.556
+6;Município;2301802;Baixio - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;39.19
+6;Município;2301851;Banabuiú - CE;93;População residente;2022;2022;45;Pessoas;17195
+6;Município;2301851;Banabuiú - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;1080.986
+6;Município;2301851;Banabuiú - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;15.91
+6;Município;2301901;Barbalha - CE;93;População residente;2022;2022;45;Pessoas;75033
+6;Município;2301901;Barbalha - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;608.158
+6;Município;2301901;Barbalha - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;123.38
+6;Município;2301950;Barreira - CE;93;População residente;2022;2022;45;Pessoas;22392
+6;Município;2301950;Barreira - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;260.003
+6;Município;2301950;Barreira - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;86.12
+6;Município;2302008;Barro - CE;93;População residente;2022;2022;45;Pessoas;19381
+6;Município;2302008;Barro - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;711.346
+6;Município;2302008;Barro - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;27.25
+6;Município;2302057;Barroquinha - CE;93;População residente;2022;2022;45;Pessoas;14567
+6;Município;2302057;Barroquinha - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;385.583
+6;Município;2302057;Barroquinha - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;37.78
+6;Município;2302107;Baturité - CE;93;População residente;2022;2022;45;Pessoas;35218
+6;Município;2302107;Baturité - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;314.075
+6;Município;2302107;Baturité - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;112.13
+6;Município;2302206;Beberibe - CE;93;População residente;2022;2022;45;Pessoas;53114
+6;Município;2302206;Beberibe - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;1596.751
+6;Município;2302206;Beberibe - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;33.26
+6;Município;2302305;Bela Cruz - CE;93;População residente;2022;2022;45;Pessoas;32775
+6;Município;2302305;Bela Cruz - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;842.106
+6;Município;2302305;Bela Cruz - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;38.92
+6;Município;2302404;Boa Viagem - CE;93;População residente;2022;2022;45;Pessoas;50411
+6;Município;2302404;Boa Viagem - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;2835.037
+6;Município;2302404;Boa Viagem - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;17.78
+6;Município;2302503;Brejo Santo - CE;93;População residente;2022;2022;45;Pessoas;51090
+6;Município;2302503;Brejo Santo - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;654.658
+6;Município;2302503;Brejo Santo - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;78.04
+6;Município;2302602;Camocim - CE;93;População residente;2022;2022;45;Pessoas;62326
+6;Município;2302602;Camocim - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;1120.452
+6;Município;2302602;Camocim - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;55.63
+6;Município;2302701;Campos Sales - CE;93;População residente;2022;2022;45;Pessoas;25135
+6;Município;2302701;Campos Sales - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;1082.582
+6;Município;2302701;Campos Sales - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;23.22
+6;Município;2302800;Canindé - CE;93;População residente;2022;2022;45;Pessoas;74174
+6;Município;2302800;Canindé - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;3032.390
+6;Município;2302800;Canindé - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;24.46
+6;Município;2302909;Capistrano - CE;93;População residente;2022;2022;45;Pessoas;17254
+6;Município;2302909;Capistrano - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;226.549
+6;Município;2302909;Capistrano - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;76.16
+6;Município;2303006;Caridade - CE;93;População residente;2022;2022;45;Pessoas;16377
+6;Município;2303006;Caridade - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;926.271
+6;Município;2303006;Caridade - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;17.68
+6;Município;2303105;Cariré - CE;93;População residente;2022;2022;45;Pessoas;17632
+6;Município;2303105;Cariré - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;755.597
+6;Município;2303105;Cariré - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;23.34
+6;Município;2303204;Caririaçu - CE;93;População residente;2022;2022;45;Pessoas;26320
+6;Município;2303204;Caririaçu - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;634.179
+6;Município;2303204;Caririaçu - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;41.50
+6;Município;2303303;Cariús - CE;93;População residente;2022;2022;45;Pessoas;17015
+6;Município;2303303;Cariús - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;1036.417
+6;Município;2303303;Cariús - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;16.42
+6;Município;2303402;Carnaubal - CE;93;População residente;2022;2022;45;Pessoas;17210
+6;Município;2303402;Carnaubal - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;363.220
+6;Município;2303402;Carnaubal - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;47.38
+6;Município;2303501;Cascavel - CE;93;População residente;2022;2022;45;Pessoas;72720
+6;Município;2303501;Cascavel - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;838.115
+6;Município;2303501;Cascavel - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;86.77
+6;Município;2303600;Catarina - CE;93;População residente;2022;2022;45;Pessoas;10243
+6;Município;2303600;Catarina - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;488.153
+6;Município;2303600;Catarina - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;20.98
+6;Município;2303659;Catunda - CE;93;População residente;2022;2022;45;Pessoas;10444
+6;Município;2303659;Catunda - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;784.022
+6;Município;2303659;Catunda - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;13.32
+6;Município;2303709;Caucaia - CE;93;População residente;2022;2022;45;Pessoas;355679
+6;Município;2303709;Caucaia - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;1223.246
+6;Município;2303709;Caucaia - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;290.77
+6;Município;2303808;Cedro - CE;93;População residente;2022;2022;45;Pessoas;22344
+6;Município;2303808;Cedro - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;729.970
+6;Município;2303808;Cedro - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;30.61
+6;Município;2303907;Chaval - CE;93;População residente;2022;2022;45;Pessoas;12462
+6;Município;2303907;Chaval - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;237.248
+6;Município;2303907;Chaval - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;52.53
+6;Município;2303931;Choró - CE;93;População residente;2022;2022;45;Pessoas;12113
+6;Município;2303931;Choró - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;815.268
+6;Município;2303931;Choró - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;14.86
+6;Município;2303956;Chorozinho - CE;93;População residente;2022;2022;45;Pessoas;20163
+6;Município;2303956;Chorozinho - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;296.431
+6;Município;2303956;Chorozinho - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;68.02
+6;Município;2304004;Coreaú - CE;93;População residente;2022;2022;45;Pessoas;20953
+6;Município;2304004;Coreaú - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;750.332
+6;Município;2304004;Coreaú - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;27.92
+6;Município;2304103;Crateús - CE;93;População residente;2022;2022;45;Pessoas;76390
+6;Município;2304103;Crateús - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;2981.459
+6;Município;2304103;Crateús - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;25.62
+6;Município;2304202;Crato - CE;93;População residente;2022;2022;45;Pessoas;131050
+6;Município;2304202;Crato - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;1138.150
+6;Município;2304202;Crato - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;115.14
+6;Município;2304236;Croatá - CE;93;População residente;2022;2022;45;Pessoas;17481
+6;Município;2304236;Croatá - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;696.348
+6;Município;2304236;Croatá - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;25.10
+6;Município;2304251;Cruz - CE;93;População residente;2022;2022;45;Pessoas;29761
+6;Município;2304251;Cruz - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;335.921
+6;Município;2304251;Cruz - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;88.60
+6;Município;2304269;Deputado Irapuan Pinheiro - CE;93;População residente;2022;2022;45;Pessoas;8932
+6;Município;2304269;Deputado Irapuan Pinheiro - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;471.134
+6;Município;2304269;Deputado Irapuan Pinheiro - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;18.96
+6;Município;2304277;Ereré - CE;93;População residente;2022;2022;45;Pessoas;6474
+6;Município;2304277;Ereré - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;362.906
+6;Município;2304277;Ereré - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;17.84
+6;Município;2304285;Eusébio - CE;93;População residente;2022;2022;45;Pessoas;74170
+6;Município;2304285;Eusébio - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;78.818
+6;Município;2304285;Eusébio - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;941.03
+6;Município;2304301;Farias Brito - CE;93;População residente;2022;2022;45;Pessoas;18217
+6;Município;2304301;Farias Brito - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;530.540
+6;Município;2304301;Farias Brito - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;34.34
+6;Município;2304350;Forquilha - CE;93;População residente;2022;2022;45;Pessoas;24173
+6;Município;2304350;Forquilha - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;568.778
+6;Município;2304350;Forquilha - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;42.50
+6;Município;2304400;Fortaleza - CE;93;População residente;2022;2022;45;Pessoas;2428708
+6;Município;2304400;Fortaleza - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;312.353
+6;Município;2304400;Fortaleza - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;7775.52
+6;Município;2304459;Fortim - CE;93;População residente;2022;2022;45;Pessoas;17294
+6;Município;2304459;Fortim - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;285.024
+6;Município;2304459;Fortim - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;60.68
+6;Município;2304509;Frecheirinha - CE;93;População residente;2022;2022;45;Pessoas;15657
+6;Município;2304509;Frecheirinha - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;210.284
+6;Município;2304509;Frecheirinha - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;74.46
+6;Município;2304608;General Sampaio - CE;93;População residente;2022;2022;45;Pessoas;6734
+6;Município;2304608;General Sampaio - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;230.371
+6;Município;2304608;General Sampaio - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;29.23
+6;Município;2304657;Graça - CE;93;População residente;2022;2022;45;Pessoas;13801
+6;Município;2304657;Graça - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;258.942
+6;Município;2304657;Graça - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;53.30
+6;Município;2304707;Granja - CE;93;População residente;2022;2022;45;Pessoas;53344
+6;Município;2304707;Granja - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;2663.174
+6;Município;2304707;Granja - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;20.03
+6;Município;2304806;Granjeiro - CE;93;População residente;2022;2022;45;Pessoas;4841
+6;Município;2304806;Granjeiro - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;111.528
+6;Município;2304806;Granjeiro - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;43.41
+6;Município;2304905;Groaíras - CE;93;População residente;2022;2022;45;Pessoas;10910
+6;Município;2304905;Groaíras - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;155.681
+6;Município;2304905;Groaíras - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;70.08
+6;Município;2304954;Guaiúba - CE;93;População residente;2022;2022;45;Pessoas;24325
+6;Município;2304954;Guaiúba - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;256.053
+6;Município;2304954;Guaiúba - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;95.00
+6;Município;2305001;Guaraciaba do Norte - CE;93;População residente;2022;2022;45;Pessoas;42053
+6;Município;2305001;Guaraciaba do Norte - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;624.606
+6;Município;2305001;Guaraciaba do Norte - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;67.33
+6;Município;2305100;Guaramiranga - CE;93;População residente;2022;2022;45;Pessoas;5654
+6;Município;2305100;Guaramiranga - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;90.817
+6;Município;2305100;Guaramiranga - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;62.26
+6;Município;2305209;Hidrolândia - CE;93;População residente;2022;2022;45;Pessoas;17855
+6;Município;2305209;Hidrolândia - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;926.592
+6;Município;2305209;Hidrolândia - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;19.27
+6;Município;2305233;Horizonte - CE;93;População residente;2022;2022;45;Pessoas;74755
+6;Município;2305233;Horizonte - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;160.557
+6;Município;2305233;Horizonte - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;465.60
+6;Município;2305266;Ibaretama - CE;93;População residente;2022;2022;45;Pessoas;11956
+6;Município;2305266;Ibaretama - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;879.255
+6;Município;2305266;Ibaretama - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;13.60
+6;Município;2305308;Ibiapina - CE;93;População residente;2022;2022;45;Pessoas;23965
+6;Município;2305308;Ibiapina - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;414.092
+6;Município;2305308;Ibiapina - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;57.87
+6;Município;2305332;Ibicuitinga - CE;93;População residente;2022;2022;45;Pessoas;11611
+6;Município;2305332;Ibicuitinga - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;423.856
+6;Município;2305332;Ibicuitinga - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;27.39
+6;Município;2305357;Icapuí - CE;93;População residente;2022;2022;45;Pessoas;21433
+6;Município;2305357;Icapuí - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;421.440
+6;Município;2305357;Icapuí - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;50.86
+6;Município;2305407;Icó - CE;93;População residente;2022;2022;45;Pessoas;62642
+6;Município;2305407;Icó - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;1865.862
+6;Município;2305407;Icó - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;33.57
+6;Município;2305506;Iguatu - CE;93;População residente;2022;2022;45;Pessoas;98064
+6;Município;2305506;Iguatu - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;992.208
+6;Município;2305506;Iguatu - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;98.83
+6;Município;2305605;Independência - CE;93;População residente;2022;2022;45;Pessoas;24024
+6;Município;2305605;Independência - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;3222.381
+6;Município;2305605;Independência - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;7.46
+6;Município;2305654;Ipaporanga - CE;93;População residente;2022;2022;45;Pessoas;11575
+6;Município;2305654;Ipaporanga - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;704.773
+6;Município;2305654;Ipaporanga - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;16.42
+6;Município;2305704;Ipaumirim - CE;93;População residente;2022;2022;45;Pessoas;12083
+6;Município;2305704;Ipaumirim - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;276.508
+6;Município;2305704;Ipaumirim - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;43.70
+6;Município;2305803;Ipu - CE;93;População residente;2022;2022;45;Pessoas;41081
+6;Município;2305803;Ipu - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;626.049
+6;Município;2305803;Ipu - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;65.62
+6;Município;2305902;Ipueiras - CE;93;População residente;2022;2022;45;Pessoas;36798
+6;Município;2305902;Ipueiras - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;1483.258
+6;Município;2305902;Ipueiras - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;24.81
+6;Município;2306009;Iracema - CE;93;População residente;2022;2022;45;Pessoas;14001
+6;Município;2306009;Iracema - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;839.174
+6;Município;2306009;Iracema - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;16.68
+6;Município;2306108;Irauçuba - CE;93;População residente;2022;2022;45;Pessoas;23915
+6;Município;2306108;Irauçuba - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;1466.412
+6;Município;2306108;Irauçuba - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;16.31
+6;Município;2306207;Itaiçaba - CE;93;População residente;2022;2022;45;Pessoas;7536
+6;Município;2306207;Itaiçaba - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;213.604
+6;Município;2306207;Itaiçaba - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;35.28
+6;Município;2306256;Itaitinga - CE;93;População residente;2022;2022;45;Pessoas;64650
+6;Município;2306256;Itaitinga - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;153.686
+6;Município;2306256;Itaitinga - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;420.66
+6;Município;2306306;Itapajé - CE;93;População residente;2022;2022;45;Pessoas;46426
+6;Município;2306306;Itapajé - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;432.188
+6;Município;2306306;Itapajé - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;107.42
+6;Município;2306405;Itapipoca - CE;93;População residente;2022;2022;45;Pessoas;131123
+6;Município;2306405;Itapipoca - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;1600.358
+6;Município;2306405;Itapipoca - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;81.93
+6;Município;2306504;Itapiúna - CE;93;População residente;2022;2022;45;Pessoas;17841
+6;Município;2306504;Itapiúna - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;593.231
+6;Município;2306504;Itapiúna - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;30.07
+6;Município;2306553;Itarema - CE;93;População residente;2022;2022;45;Pessoas;42957
+6;Município;2306553;Itarema - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;714.833
+6;Município;2306553;Itarema - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;60.09
+6;Município;2306603;Itatira - CE;93;População residente;2022;2022;45;Pessoas;20424
+6;Município;2306603;Itatira - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;829.626
+6;Município;2306603;Itatira - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;24.62
+6;Município;2306702;Jaguaretama - CE;93;População residente;2022;2022;45;Pessoas;17232
+6;Município;2306702;Jaguaretama - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;1826.826
+6;Município;2306702;Jaguaretama - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;9.43
+6;Município;2306801;Jaguaribara - CE;93;População residente;2022;2022;45;Pessoas;10356
+6;Município;2306801;Jaguaribara - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;622.963
+6;Município;2306801;Jaguaribara - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;16.62
+6;Município;2306900;Jaguaribe - CE;93;População residente;2022;2022;45;Pessoas;33726
+6;Município;2306900;Jaguaribe - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;1877.062
+6;Município;2306900;Jaguaribe - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;17.97
+6;Município;2307007;Jaguaruana - CE;93;População residente;2022;2022;45;Pessoas;31701
+6;Município;2307007;Jaguaruana - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;854.362
+6;Município;2307007;Jaguaruana - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;37.10
+6;Município;2307106;Jardim - CE;93;População residente;2022;2022;45;Pessoas;27411
+6;Município;2307106;Jardim - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;544.980
+6;Município;2307106;Jardim - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;50.30
+6;Município;2307205;Jati - CE;93;População residente;2022;2022;45;Pessoas;7861
+6;Município;2307205;Jati - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;368.359
+6;Município;2307205;Jati - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;21.34
+6;Município;2307254;Jijoca de Jericoacoara - CE;93;População residente;2022;2022;45;Pessoas;25555
+6;Município;2307254;Jijoca de Jericoacoara - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;209.029
+6;Município;2307254;Jijoca de Jericoacoara - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;122.26
+6;Município;2307304;Juazeiro do Norte - CE;93;População residente;2022;2022;45;Pessoas;286120
+6;Município;2307304;Juazeiro do Norte - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;258.788
+6;Município;2307304;Juazeiro do Norte - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;1105.62
+6;Município;2307403;Jucás - CE;93;População residente;2022;2022;45;Pessoas;23922
+6;Município;2307403;Jucás - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;940.336
+6;Município;2307403;Jucás - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;25.44
+6;Município;2307502;Lavras da Mangabeira - CE;93;População residente;2022;2022;45;Pessoas;30802
+6;Município;2307502;Lavras da Mangabeira - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;945.263
+6;Município;2307502;Lavras da Mangabeira - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;32.59
+6;Município;2307601;Limoeiro do Norte - CE;93;População residente;2022;2022;45;Pessoas;59560
+6;Município;2307601;Limoeiro do Norte - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;744.525
+6;Município;2307601;Limoeiro do Norte - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;80.00
+6;Município;2307635;Madalena - CE;93;População residente;2022;2022;45;Pessoas;16896
+6;Município;2307635;Madalena - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;997.781
+6;Município;2307635;Madalena - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;16.93
+6;Município;2307650;Maracanaú - CE;93;População residente;2022;2022;45;Pessoas;234509
+6;Município;2307650;Maracanaú - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;105.071
+6;Município;2307650;Maracanaú - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;2231.91
+6;Município;2307700;Maranguape - CE;93;População residente;2022;2022;45;Pessoas;105093
+6;Município;2307700;Maranguape - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;583.505
+6;Município;2307700;Maranguape - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;180.11
+6;Município;2307809;Marco - CE;93;População residente;2022;2022;45;Pessoas;25799
+6;Município;2307809;Marco - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;573.610
+6;Município;2307809;Marco - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;44.98
+6;Município;2307908;Martinópole - CE;93;População residente;2022;2022;45;Pessoas;10846
+6;Município;2307908;Martinópole - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;303.445
+6;Município;2307908;Martinópole - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;35.74
+6;Município;2308005;Massapê - CE;93;População residente;2022;2022;45;Pessoas;37697
+6;Município;2308005;Massapê - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;567.780
+6;Município;2308005;Massapê - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;66.39
+6;Município;2308104;Mauriti - CE;93;População residente;2022;2022;45;Pessoas;45561
+6;Município;2308104;Mauriti - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;1079.011
+6;Município;2308104;Mauriti - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;42.22
+6;Município;2308203;Meruoca - CE;93;População residente;2022;2022;45;Pessoas;15157
+6;Município;2308203;Meruoca - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;151.651
+6;Município;2308203;Meruoca - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;99.95
+6;Município;2308302;Milagres - CE;93;População residente;2022;2022;45;Pessoas;25900
+6;Município;2308302;Milagres - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;579.097
+6;Município;2308302;Milagres - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;44.72
+6;Município;2308351;Milhã - CE;93;População residente;2022;2022;45;Pessoas;14123
+6;Município;2308351;Milhã - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;502.137
+6;Município;2308351;Milhã - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;28.13
+6;Município;2308377;Miraíma - CE;93;População residente;2022;2022;45;Pessoas;14196
+6;Município;2308377;Miraíma - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;708.678
+6;Município;2308377;Miraíma - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;20.03
+6;Município;2308401;Missão Velha - CE;93;População residente;2022;2022;45;Pessoas;36822
+6;Município;2308401;Missão Velha - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;613.317
+6;Município;2308401;Missão Velha - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;60.04
+6;Município;2308500;Mombaça - CE;93;População residente;2022;2022;45;Pessoas;37735
+6;Município;2308500;Mombaça - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;2115.748
+6;Município;2308500;Mombaça - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;17.84
+6;Município;2308609;Monsenhor Tabosa - CE;93;População residente;2022;2022;45;Pessoas;17149
+6;Município;2308609;Monsenhor Tabosa - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;892.538
+6;Município;2308609;Monsenhor Tabosa - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;19.21
+6;Município;2308708;Morada Nova - CE;93;População residente;2022;2022;45;Pessoas;61443
+6;Município;2308708;Morada Nova - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;2763.971
+6;Município;2308708;Morada Nova - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;22.23
+6;Município;2308807;Moraújo - CE;93;População residente;2022;2022;45;Pessoas;8254
+6;Município;2308807;Moraújo - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;414.446
+6;Município;2308807;Moraújo - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;19.92
+6;Município;2308906;Morrinhos - CE;93;População residente;2022;2022;45;Pessoas;22753
+6;Município;2308906;Morrinhos - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;411.586
+6;Município;2308906;Morrinhos - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;55.28
+6;Município;2309003;Mucambo - CE;93;População residente;2022;2022;45;Pessoas;13666
+6;Município;2309003;Mucambo - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;192.190
+6;Município;2309003;Mucambo - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;71.11
+6;Município;2309102;Mulungu - CE;93;População residente;2022;2022;45;Pessoas;10569
+6;Município;2309102;Mulungu - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;97.951
+6;Município;2309102;Mulungu - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;107.90
+6;Município;2309201;Nova Olinda - CE;93;População residente;2022;2022;45;Pessoas;15399
+6;Município;2309201;Nova Olinda - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;282.584
+6;Município;2309201;Nova Olinda - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;54.49
+6;Município;2309300;Nova Russas - CE;93;População residente;2022;2022;45;Pessoas;30699
+6;Município;2309300;Nova Russas - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;736.911
+6;Município;2309300;Nova Russas - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;41.66
+6;Município;2309409;Novo Oriente - CE;93;População residente;2022;2022;45;Pessoas;27545
+6;Município;2309409;Novo Oriente - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;947.440
+6;Município;2309409;Novo Oriente - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;29.07
+6;Município;2309458;Ocara - CE;93;População residente;2022;2022;45;Pessoas;24493
+6;Município;2309458;Ocara - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;763.075
+6;Município;2309458;Ocara - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;32.10
+6;Município;2309508;Orós - CE;93;População residente;2022;2022;45;Pessoas;19675
+6;Município;2309508;Orós - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;577.526
+6;Município;2309508;Orós - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;34.07
+6;Município;2309607;Pacajus - CE;93;População residente;2022;2022;45;Pessoas;70983
+6;Município;2309607;Pacajus - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;250.304
+6;Município;2309607;Pacajus - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;283.59
+6;Município;2309706;Pacatuba - CE;93;População residente;2022;2022;45;Pessoas;81524
+6;Município;2309706;Pacatuba - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;133.236
+6;Município;2309706;Pacatuba - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;611.88
+6;Município;2309805;Pacoti - CE;93;População residente;2022;2022;45;Pessoas;11186
+6;Município;2309805;Pacoti - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;112.433
+6;Município;2309805;Pacoti - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;99.49
+6;Município;2309904;Pacujá - CE;93;População residente;2022;2022;45;Pessoas;6175
+6;Município;2309904;Pacujá - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;88.355
+6;Município;2309904;Pacujá - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;69.89
+6;Município;2310001;Palhano - CE;93;População residente;2022;2022;45;Pessoas;9346
+6;Município;2310001;Palhano - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;436.980
+6;Município;2310001;Palhano - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;21.39
+6;Município;2310100;Palmácia - CE;93;População residente;2022;2022;45;Pessoas;10242
+6;Município;2310100;Palmácia - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;128.896
+6;Município;2310100;Palmácia - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;79.46
+6;Município;2310209;Paracuru - CE;93;População residente;2022;2022;45;Pessoas;38980
+6;Município;2310209;Paracuru - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;304.734
+6;Município;2310209;Paracuru - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;127.91
+6;Município;2310258;Paraipaba - CE;93;População residente;2022;2022;45;Pessoas;32216
+6;Município;2310258;Paraipaba - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;289.231
+6;Município;2310258;Paraipaba - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;111.39
+6;Município;2310308;Parambu - CE;93;População residente;2022;2022;45;Pessoas;31445
+6;Município;2310308;Parambu - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;2313.868
+6;Município;2310308;Parambu - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;13.59
+6;Município;2310407;Paramoti - CE;93;População residente;2022;2022;45;Pessoas;10384
+6;Município;2310407;Paramoti - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;539.238
+6;Município;2310407;Paramoti - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;19.26
+6;Município;2310506;Pedra Branca - CE;93;População residente;2022;2022;45;Pessoas;40187
+6;Município;2310506;Pedra Branca - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;1302.081
+6;Município;2310506;Pedra Branca - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;30.86
+6;Município;2310605;Penaforte - CE;93;População residente;2022;2022;45;Pessoas;8972
+6;Município;2310605;Penaforte - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;150.536
+6;Município;2310605;Penaforte - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;59.60
+6;Município;2310704;Pentecoste - CE;93;População residente;2022;2022;45;Pessoas;37813
+6;Município;2310704;Pentecoste - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;1379.836
+6;Município;2310704;Pentecoste - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;27.40
+6;Município;2310803;Pereiro - CE;93;População residente;2022;2022;45;Pessoas;15274
+6;Município;2310803;Pereiro - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;435.868
+6;Município;2310803;Pereiro - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;35.04
+6;Município;2310852;Pindoretama - CE;93;População residente;2022;2022;45;Pessoas;23391
+6;Município;2310852;Pindoretama - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;74.033
+6;Município;2310852;Pindoretama - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;315.95
+6;Município;2310902;Piquet Carneiro - CE;93;População residente;2022;2022;45;Pessoas;16616
+6;Município;2310902;Piquet Carneiro - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;589.601
+6;Município;2310902;Piquet Carneiro - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;28.18
+6;Município;2310951;Pires Ferreira - CE;93;População residente;2022;2022;45;Pessoas;10606
+6;Município;2310951;Pires Ferreira - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;244.464
+6;Município;2310951;Pires Ferreira - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;43.38
+6;Município;2311009;Poranga - CE;93;População residente;2022;2022;45;Pessoas;12065
+6;Município;2311009;Poranga - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;1310.771
+6;Município;2311009;Poranga - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;9.20
+6;Município;2311108;Porteiras - CE;93;População residente;2022;2022;45;Pessoas;17050
+6;Município;2311108;Porteiras - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;224.860
+6;Município;2311108;Porteiras - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;75.82
+6;Município;2311207;Potengi - CE;93;População residente;2022;2022;45;Pessoas;8833
+6;Município;2311207;Potengi - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;343.264
+6;Município;2311207;Potengi - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;25.73
+6;Município;2311231;Potiretama - CE;93;População residente;2022;2022;45;Pessoas;5974
+6;Município;2311231;Potiretama - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;409.137
+6;Município;2311231;Potiretama - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;14.60
+6;Município;2311264;Quiterianópolis - CE;93;População residente;2022;2022;45;Pessoas;20213
+6;Município;2311264;Quiterianópolis - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;1041.832
+6;Município;2311264;Quiterianópolis - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;19.40
+6;Município;2311306;Quixadá - CE;93;População residente;2022;2022;45;Pessoas;84168
+6;Município;2311306;Quixadá - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;2020.586
+6;Município;2311306;Quixadá - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;41.66
+6;Município;2311355;Quixelô - CE;93;População residente;2022;2022;45;Pessoas;15910
+6;Município;2311355;Quixelô - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;605.345
+6;Município;2311355;Quixelô - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;26.28
+6;Município;2311405;Quixeramobim - CE;93;População residente;2022;2022;45;Pessoas;82177
+6;Município;2311405;Quixeramobim - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;3324.987
+6;Município;2311405;Quixeramobim - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;24.71
+6;Município;2311504;Quixeré - CE;93;População residente;2022;2022;45;Pessoas;20874
+6;Município;2311504;Quixeré - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;613.099
+6;Município;2311504;Quixeré - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;34.05
+6;Município;2311603;Redenção - CE;93;População residente;2022;2022;45;Pessoas;27214
+6;Município;2311603;Redenção - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;247.989
+6;Município;2311603;Redenção - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;109.74
+6;Município;2311702;Reriutaba - CE;93;População residente;2022;2022;45;Pessoas;18606
+6;Município;2311702;Reriutaba - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;372.949
+6;Município;2311702;Reriutaba - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;49.89
+6;Município;2311801;Russas - CE;93;População residente;2022;2022;45;Pessoas;72928
+6;Município;2311801;Russas - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;1611.091
+6;Município;2311801;Russas - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;45.27
+6;Município;2311900;Saboeiro - CE;93;População residente;2022;2022;45;Pessoas;13854
+6;Município;2311900;Saboeiro - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;1381.274
+6;Município;2311900;Saboeiro - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;10.03
+6;Município;2311959;Salitre - CE;93;População residente;2022;2022;45;Pessoas;16633
+6;Município;2311959;Salitre - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;806.253
+6;Município;2311959;Salitre - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;20.63
+6;Município;2312007;Santana do Acaraú - CE;93;População residente;2022;2022;45;Pessoas;30628
+6;Município;2312007;Santana do Acaraú - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;972.573
+6;Município;2312007;Santana do Acaraú - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;31.49
+6;Município;2312106;Santana do Cariri - CE;93;População residente;2022;2022;45;Pessoas;16954
+6;Município;2312106;Santana do Cariri - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;855.165
+6;Município;2312106;Santana do Cariri - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;19.83
+6;Município;2312205;Santa Quitéria - CE;93;População residente;2022;2022;45;Pessoas;40183
+6;Município;2312205;Santa Quitéria - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;4262.293
+6;Município;2312205;Santa Quitéria - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;9.43
+6;Município;2312304;São Benedito - CE;93;População residente;2022;2022;45;Pessoas;47640
+6;Município;2312304;São Benedito - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;350.847
+6;Município;2312304;São Benedito - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;135.79
+6;Município;2312403;São Gonçalo do Amarante - CE;93;População residente;2022;2022;45;Pessoas;54143
+6;Município;2312403;São Gonçalo do Amarante - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;842.635
+6;Município;2312403;São Gonçalo do Amarante - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;64.25
+6;Município;2312502;São João do Jaguaribe - CE;93;População residente;2022;2022;45;Pessoas;5855
+6;Município;2312502;São João do Jaguaribe - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;279.451
+6;Município;2312502;São João do Jaguaribe - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;20.95
+6;Município;2312601;São Luís do Curu - CE;93;População residente;2022;2022;45;Pessoas;10822
+6;Município;2312601;São Luís do Curu - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;122.865
+6;Município;2312601;São Luís do Curu - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;88.08
+6;Município;2312700;Senador Pompeu - CE;93;População residente;2022;2022;45;Pessoas;24266
+6;Município;2312700;Senador Pompeu - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;956.882
+6;Município;2312700;Senador Pompeu - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;25.36
+6;Município;2312809;Senador Sá - CE;93;População residente;2022;2022;45;Pessoas;7262
+6;Município;2312809;Senador Sá - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;424.642
+6;Município;2312809;Senador Sá - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;17.10
+6;Município;2312908;Sobral - CE;93;População residente;2022;2022;45;Pessoas;203023
+6;Município;2312908;Sobral - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;2068.474
+6;Município;2312908;Sobral - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;98.15
+6;Município;2313005;Solonópole - CE;93;População residente;2022;2022;45;Pessoas;18179
+6;Município;2313005;Solonópole - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;1535.855
+6;Município;2313005;Solonópole - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;11.84
+6;Município;2313104;Tabuleiro do Norte - CE;93;População residente;2022;2022;45;Pessoas;30652
+6;Município;2313104;Tabuleiro do Norte - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;1047.637
+6;Município;2313104;Tabuleiro do Norte - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;29.26
+6;Município;2313203;Tamboril - CE;93;População residente;2022;2022;45;Pessoas;24815
+6;Município;2313203;Tamboril - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;2014.543
+6;Município;2313203;Tamboril - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;12.32
+6;Município;2313252;Tarrafas - CE;93;População residente;2022;2022;45;Pessoas;7529
+6;Município;2313252;Tarrafas - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;412.719
+6;Município;2313252;Tarrafas - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;18.24
+6;Município;2313302;Tauá - CE;93;População residente;2022;2022;45;Pessoas;61227
+6;Município;2313302;Tauá - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;4010.618
+6;Município;2313302;Tauá - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;15.27
+6;Município;2313351;Tejuçuoca - CE;93;População residente;2022;2022;45;Pessoas;17154
+6;Município;2313351;Tejuçuoca - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;758.707
+6;Município;2313351;Tejuçuoca - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;22.61
+6;Município;2313401;Tianguá - CE;93;População residente;2022;2022;45;Pessoas;81506
+6;Município;2313401;Tianguá - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;909.853
+6;Município;2313401;Tianguá - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;89.58
+6;Município;2313500;Trairi - CE;93;População residente;2022;2022;45;Pessoas;58415
+6;Município;2313500;Trairi - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;928.725
+6;Município;2313500;Trairi - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;62.90
+6;Município;2313559;Tururu - CE;93;População residente;2022;2022;45;Pessoas;15412
+6;Município;2313559;Tururu - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;201.270
+6;Município;2313559;Tururu - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;76.57
+6;Município;2313609;Ubajara - CE;93;População residente;2022;2022;45;Pessoas;32767
+6;Município;2313609;Ubajara - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;423.673
+6;Município;2313609;Ubajara - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;77.34
+6;Município;2313708;Umari - CE;93;População residente;2022;2022;45;Pessoas;6871
+6;Município;2313708;Umari - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;263.183
+6;Município;2313708;Umari - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;26.11
+6;Município;2313757;Umirim - CE;93;População residente;2022;2022;45;Pessoas;17470
+6;Município;2313757;Umirim - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;315.648
+6;Município;2313757;Umirim - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;55.35
+6;Município;2313807;Uruburetama - CE;93;População residente;2022;2022;45;Pessoas;20189
+6;Município;2313807;Uruburetama - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;99.400
+6;Município;2313807;Uruburetama - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;203.11
+6;Município;2313906;Uruoca - CE;93;População residente;2022;2022;45;Pessoas;13746
+6;Município;2313906;Uruoca - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;697.683
+6;Município;2313906;Uruoca - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;19.70
+6;Município;2313955;Varjota - CE;93;População residente;2022;2022;45;Pessoas;18105
+6;Município;2313955;Varjota - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;179.239
+6;Município;2313955;Varjota - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;101.01
+6;Município;2314003;Várzea Alegre - CE;93;População residente;2022;2022;45;Pessoas;38984
+6;Município;2314003;Várzea Alegre - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;829.976
+6;Município;2314003;Várzea Alegre - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;46.97
+6;Município;2314102;Viçosa do Ceará - CE;93;População residente;2022;2022;45;Pessoas;59712
+6;Município;2314102;Viçosa do Ceará - CE;6318;Área da unidade territorial;2022;2022;26;Quilômetros quadrados;1310.910
+6;Município;2314102;Viçosa do Ceará - CE;614;Densidade demográfica;2022;2022;28;Habitante por quilômetro quadrado;45.55

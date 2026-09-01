@@ -1,0 +1,746 @@
+NC;NN;D1C;D1N;D2C;D2N;D3C;D3N;D4C;D4N;MC;MN;V
+Nível Territorial (Código);Nível Territorial;Brasil, Unidade da Federação e Município (Código);Brasil, Unidade da Federação e Município;Variável (Código);Variável;Ano (Código);Ano;Existência de ligação à rede geral de distribuição de água e principal forma de abastecimento de água (Código);Existência de ligação à rede geral de distribuição de água e principal forma de abastecimento de água;Unidade de Medida (Código);Unidade de Medida;Valor
+1;Brasil;1;Brasil;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;72456368
+1;Brasil;1;Brasil;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;60775085
+1;Brasil;1;Brasil;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;2573139
+1;Brasil;1;Brasil;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;9108144
+3;Unidade da Federação;23;Ceará;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;3020374
+3;Unidade da Federação;23;Ceará;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;2392416
+3;Unidade da Federação;23;Ceará;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;142507
+3;Unidade da Federação;23;Ceará;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;485451
+6;Município;2300101;Abaiara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;3495
+6;Município;2300101;Abaiara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;1820
+6;Município;2300101;Abaiara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;452
+6;Município;2300101;Abaiara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;1223
+6;Município;2300150;Acarape - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;4439
+6;Município;2300150;Acarape - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;3835
+6;Município;2300150;Acarape - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;57
+6;Município;2300150;Acarape - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;547
+6;Município;2300200;Acaraú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;20955
+6;Município;2300200;Acaraú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;14172
+6;Município;2300200;Acaraú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;1828
+6;Município;2300200;Acaraú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;4955
+6;Município;2300309;Acopiara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;16398
+6;Município;2300309;Acopiara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;10579
+6;Município;2300309;Acopiara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;712
+6;Município;2300309;Acopiara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;5107
+6;Município;2300408;Aiuaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;4923
+6;Município;2300408;Aiuaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;2997
+6;Município;2300408;Aiuaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;173
+6;Município;2300408;Aiuaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;1753
+6;Município;2300507;Alcântaras - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;3780
+6;Município;2300507;Alcântaras - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;1811
+6;Município;2300507;Alcântaras - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;50
+6;Município;2300507;Alcântaras - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;1919
+6;Município;2300606;Altaneira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;2485
+6;Município;2300606;Altaneira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;2295
+6;Município;2300606;Altaneira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;52
+6;Município;2300606;Altaneira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;138
+6;Município;2300705;Alto Santo - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;4972
+6;Município;2300705;Alto Santo - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;3974
+6;Município;2300705;Alto Santo - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;246
+6;Município;2300705;Alto Santo - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;752
+6;Município;2300754;Amontada - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;13230
+6;Município;2300754;Amontada - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;6463
+6;Município;2300754;Amontada - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;684
+6;Município;2300754;Amontada - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;6083
+6;Município;2300804;Antonina do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;2594
+6;Município;2300804;Antonina do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;2226
+6;Município;2300804;Antonina do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;38
+6;Município;2300804;Antonina do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;330
+6;Município;2300903;Apuiarés - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;4548
+6;Município;2300903;Apuiarés - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;3578
+6;Município;2300903;Apuiarés - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;222
+6;Município;2300903;Apuiarés - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;748
+6;Município;2301000;Aquiraz - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;27749
+6;Município;2301000;Aquiraz - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;7318
+6;Município;2301000;Aquiraz - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;2373
+6;Município;2301000;Aquiraz - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;18058
+6;Município;2301109;Aracati - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;26020
+6;Município;2301109;Aracati - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;20531
+6;Município;2301109;Aracati - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;1073
+6;Município;2301109;Aracati - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;4416
+6;Município;2301208;Aracoiaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;8711
+6;Município;2301208;Aracoiaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;6197
+6;Município;2301208;Aracoiaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;159
+6;Município;2301208;Aracoiaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;2355
+6;Município;2301257;Ararendá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;3960
+6;Município;2301257;Ararendá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;3495
+6;Município;2301257;Ararendá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;157
+6;Município;2301257;Ararendá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;308
+6;Município;2301307;Araripe - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;6746
+6;Município;2301307;Araripe - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;4121
+6;Município;2301307;Araripe - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;180
+6;Município;2301307;Araripe - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;2445
+6;Município;2301406;Aratuba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;3579
+6;Município;2301406;Aratuba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;1098
+6;Município;2301406;Aratuba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;782
+6;Município;2301406;Aratuba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;1699
+6;Município;2301505;Arneiroz - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;2599
+6;Município;2301505;Arneiroz - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;1684
+6;Município;2301505;Arneiroz - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;134
+6;Município;2301505;Arneiroz - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;781
+6;Município;2301604;Assaré - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;7745
+6;Município;2301604;Assaré - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;4972
+6;Município;2301604;Assaré - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;258
+6;Município;2301604;Assaré - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;2515
+6;Município;2301703;Aurora - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;8422
+6;Município;2301703;Aurora - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;4858
+6;Município;2301703;Aurora - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;313
+6;Município;2301703;Aurora - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;3251
+6;Município;2301802;Baixio - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;2011
+6;Município;2301802;Baixio - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;1493
+6;Município;2301802;Baixio - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;40
+6;Município;2301802;Baixio - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;478
+6;Município;2301851;Banabuiú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;5585
+6;Município;2301851;Banabuiú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;4773
+6;Município;2301851;Banabuiú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;76
+6;Município;2301851;Banabuiú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;736
+6;Município;2301901;Barbalha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;24142
+6;Município;2301901;Barbalha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;16909
+6;Município;2301901;Barbalha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;1860
+6;Município;2301901;Barbalha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;5373
+6;Município;2301950;Barreira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;7572
+6;Município;2301950;Barreira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;4501
+6;Município;2301950;Barreira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;557
+6;Município;2301950;Barreira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;2514
+6;Município;2302008;Barro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;6946
+6;Município;2302008;Barro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;4641
+6;Município;2302008;Barro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;329
+6;Município;2302008;Barro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;1976
+6;Município;2302057;Barroquinha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;4755
+6;Município;2302057;Barroquinha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;3337
+6;Município;2302057;Barroquinha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;256
+6;Município;2302057;Barroquinha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;1162
+6;Município;2302107;Baturité - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;11850
+6;Município;2302107;Baturité - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;8572
+6;Município;2302107;Baturité - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;200
+6;Município;2302107;Baturité - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;3078
+6;Município;2302206;Beberibe - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;18251
+6;Município;2302206;Beberibe - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;5072
+6;Município;2302206;Beberibe - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;1088
+6;Município;2302206;Beberibe - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;12091
+6;Município;2302305;Bela Cruz - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;11009
+6;Município;2302305;Bela Cruz - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;7020
+6;Município;2302305;Bela Cruz - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;1029
+6;Município;2302305;Bela Cruz - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;2960
+6;Município;2302404;Boa Viagem - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;18079
+6;Município;2302404;Boa Viagem - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;12905
+6;Município;2302404;Boa Viagem - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;2174
+6;Município;2302404;Boa Viagem - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;3000
+6;Município;2302503;Brejo Santo - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;17032
+6;Município;2302503;Brejo Santo - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;14028
+6;Município;2302503;Brejo Santo - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;1032
+6;Município;2302503;Brejo Santo - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;1972
+6;Município;2302602;Camocim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;20367
+6;Município;2302602;Camocim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;17408
+6;Município;2302602;Camocim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;447
+6;Município;2302602;Camocim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;2512
+6;Município;2302701;Campos Sales - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;8972
+6;Município;2302701;Campos Sales - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;6744
+6;Município;2302701;Campos Sales - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;343
+6;Município;2302701;Campos Sales - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;1885
+6;Município;2302800;Canindé - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;25279
+6;Município;2302800;Canindé - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;16538
+6;Município;2302800;Canindé - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;1553
+6;Município;2302800;Canindé - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;7188
+6;Município;2302909;Capistrano - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;5914
+6;Município;2302909;Capistrano - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;3159
+6;Município;2302909;Capistrano - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;754
+6;Município;2302909;Capistrano - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;2001
+6;Município;2303006;Caridade - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;5354
+6;Município;2303006;Caridade - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;4010
+6;Município;2303006;Caridade - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;212
+6;Município;2303006;Caridade - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;1132
+6;Município;2303105;Cariré - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;6137
+6;Município;2303105;Cariré - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;5533
+6;Município;2303105;Cariré - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;79
+6;Município;2303105;Cariré - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;525
+6;Município;2303204;Caririaçu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;8814
+6;Município;2303204;Caririaçu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;5879
+6;Município;2303204;Caririaçu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;398
+6;Município;2303204;Caririaçu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;2537
+6;Município;2303303;Cariús - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;6290
+6;Município;2303303;Cariús - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;3695
+6;Município;2303303;Cariús - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;496
+6;Município;2303303;Cariús - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;2099
+6;Município;2303402;Carnaubal - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;5722
+6;Município;2303402;Carnaubal - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;4891
+6;Município;2303402;Carnaubal - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;99
+6;Município;2303402;Carnaubal - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;732
+6;Município;2303501;Cascavel - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;25306
+6;Município;2303501;Cascavel - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;12983
+6;Município;2303501;Cascavel - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;1271
+6;Município;2303501;Cascavel - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;11052
+6;Município;2303600;Catarina - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;3651
+6;Município;2303600;Catarina - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;2525
+6;Município;2303600;Catarina - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;127
+6;Município;2303600;Catarina - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;999
+6;Município;2303659;Catunda - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;3432
+6;Município;2303659;Catunda - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;2487
+6;Município;2303659;Catunda - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;68
+6;Município;2303659;Catunda - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;877
+6;Município;2303709;Caucaia - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;120668
+6;Município;2303709;Caucaia - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;96782
+6;Município;2303709;Caucaia - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;4597
+6;Município;2303709;Caucaia - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;19289
+6;Município;2303808;Cedro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;8075
+6;Município;2303808;Cedro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;6949
+6;Município;2303808;Cedro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;296
+6;Município;2303808;Cedro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;830
+6;Município;2303907;Chaval - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;3922
+6;Município;2303907;Chaval - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;2906
+6;Município;2303907;Chaval - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;7
+6;Município;2303907;Chaval - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;1009
+6;Município;2303931;Choró - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;3997
+6;Município;2303931;Choró - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;1887
+6;Município;2303931;Choró - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;397
+6;Município;2303931;Choró - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;1713
+6;Município;2303956;Chorozinho - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;7143
+6;Município;2303956;Chorozinho - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;4091
+6;Município;2303956;Chorozinho - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;350
+6;Município;2303956;Chorozinho - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;2702
+6;Município;2304004;Coreaú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;7031
+6;Município;2304004;Coreaú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;5698
+6;Município;2304004;Coreaú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;345
+6;Município;2304004;Coreaú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;988
+6;Município;2304103;Crateús - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;27119
+6;Município;2304103;Crateús - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;21289
+6;Município;2304103;Crateús - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;1434
+6;Município;2304103;Crateús - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;4396
+6;Município;2304202;Crato - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;44610
+6;Município;2304202;Crato - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;39880
+6;Município;2304202;Crato - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;1431
+6;Município;2304202;Crato - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;3299
+6;Município;2304236;Croatá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;6103
+6;Município;2304236;Croatá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;5857
+6;Município;2304236;Croatá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;50
+6;Município;2304236;Croatá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;196
+6;Município;2304251;Cruz - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;10352
+6;Município;2304251;Cruz - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;8636
+6;Município;2304251;Cruz - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;472
+6;Município;2304251;Cruz - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;1244
+6;Município;2304269;Deputado Irapuan Pinheiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;3344
+6;Município;2304269;Deputado Irapuan Pinheiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;2386
+6;Município;2304269;Deputado Irapuan Pinheiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;307
+6;Município;2304269;Deputado Irapuan Pinheiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;651
+6;Município;2304277;Ereré - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;2248
+6;Município;2304277;Ereré - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;1629
+6;Município;2304277;Ereré - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;76
+6;Município;2304277;Ereré - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;543
+6;Município;2304285;Eusébio - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;25105
+6;Município;2304285;Eusébio - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;19625
+6;Município;2304285;Eusébio - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;2721
+6;Município;2304285;Eusébio - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;2759
+6;Município;2304301;Farias Brito - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;6414
+6;Município;2304301;Farias Brito - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;4867
+6;Município;2304301;Farias Brito - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;232
+6;Município;2304301;Farias Brito - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;1315
+6;Município;2304350;Forquilha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;8102
+6;Município;2304350;Forquilha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;7555
+6;Município;2304350;Forquilha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;45
+6;Município;2304350;Forquilha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;502
+6;Município;2304400;Fortaleza - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;860139
+6;Município;2304400;Fortaleza - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;780457
+6;Município;2304400;Fortaleza - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;35327
+6;Município;2304400;Fortaleza - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;44355
+6;Município;2304459;Fortim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;5938
+6;Município;2304459;Fortim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;3462
+6;Município;2304459;Fortim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;287
+6;Município;2304459;Fortim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;2189
+6;Município;2304509;Frecheirinha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;5420
+6;Município;2304509;Frecheirinha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;4170
+6;Município;2304509;Frecheirinha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;579
+6;Município;2304509;Frecheirinha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;671
+6;Município;2304608;General Sampaio - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;2193
+6;Município;2304608;General Sampaio - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;1884
+6;Município;2304608;General Sampaio - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;25
+6;Município;2304608;General Sampaio - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;284
+6;Município;2304657;Graça - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;4832
+6;Município;2304657;Graça - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;3086
+6;Município;2304657;Graça - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;495
+6;Município;2304657;Graça - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;1251
+6;Município;2304707;Granja - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;17092
+6;Município;2304707;Granja - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;9374
+6;Município;2304707;Granja - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;2073
+6;Município;2304707;Granja - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;5645
+6;Município;2304806;Granjeiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;1540
+6;Município;2304806;Granjeiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;1238
+6;Município;2304806;Granjeiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;48
+6;Município;2304806;Granjeiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;254
+6;Município;2304905;Groaíras - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;4009
+6;Município;2304905;Groaíras - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;3735
+6;Município;2304905;Groaíras - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;53
+6;Município;2304905;Groaíras - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;221
+6;Município;2304954;Guaiúba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;7757
+6;Município;2304954;Guaiúba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;6753
+6;Município;2304954;Guaiúba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;128
+6;Município;2304954;Guaiúba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;876
+6;Município;2305001;Guaraciaba do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;13494
+6;Município;2305001;Guaraciaba do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;12090
+6;Município;2305001;Guaraciaba do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;543
+6;Município;2305001;Guaraciaba do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;861
+6;Município;2305100;Guaramiranga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;1916
+6;Município;2305100;Guaramiranga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;674
+6;Município;2305100;Guaramiranga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;282
+6;Município;2305100;Guaramiranga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;960
+6;Município;2305209;Hidrolândia - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;6340
+6;Município;2305209;Hidrolândia - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;4141
+6;Município;2305209;Hidrolândia - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;129
+6;Município;2305209;Hidrolândia - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;2070
+6;Município;2305233;Horizonte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;25611
+6;Município;2305233;Horizonte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;19212
+6;Município;2305233;Horizonte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;1590
+6;Município;2305233;Horizonte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;4809
+6;Município;2305266;Ibaretama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;4021
+6;Município;2305266;Ibaretama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;2207
+6;Município;2305266;Ibaretama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;57
+6;Município;2305266;Ibaretama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;1757
+6;Município;2305308;Ibiapina - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;7898
+6;Município;2305308;Ibiapina - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;4625
+6;Município;2305308;Ibiapina - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;656
+6;Município;2305308;Ibiapina - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;2617
+6;Município;2305332;Ibicuitinga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;4074
+6;Município;2305332;Ibicuitinga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;3144
+6;Município;2305332;Ibicuitinga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;122
+6;Município;2305332;Ibicuitinga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;808
+6;Município;2305357;Icapuí - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;7177
+6;Município;2305357;Icapuí - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;6139
+6;Município;2305357;Icapuí - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;201
+6;Município;2305357;Icapuí - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;837
+6;Município;2305407;Icó - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;21424
+6;Município;2305407;Icó - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;15737
+6;Município;2305407;Icó - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;651
+6;Município;2305407;Icó - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;5036
+6;Município;2305506;Iguatu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;34954
+6;Município;2305506;Iguatu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;30191
+6;Município;2305506;Iguatu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;1339
+6;Município;2305506;Iguatu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;3424
+6;Município;2305605;Independência - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;8466
+6;Município;2305605;Independência - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;5046
+6;Município;2305605;Independência - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;742
+6;Município;2305605;Independência - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;2678
+6;Município;2305654;Ipaporanga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;4296
+6;Município;2305654;Ipaporanga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;3122
+6;Município;2305654;Ipaporanga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;744
+6;Município;2305654;Ipaporanga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;430
+6;Município;2305704;Ipaumirim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;4072
+6;Município;2305704;Ipaumirim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;2822
+6;Município;2305704;Ipaumirim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;54
+6;Município;2305704;Ipaumirim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;1196
+6;Município;2305803;Ipu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;13935
+6;Município;2305803;Ipu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;9944
+6;Município;2305803;Ipu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;1154
+6;Município;2305803;Ipu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;2837
+6;Município;2305902;Ipueiras - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;13285
+6;Município;2305902;Ipueiras - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;11805
+6;Município;2305902;Ipueiras - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;444
+6;Município;2305902;Ipueiras - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;1036
+6;Município;2306009;Iracema - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;4795
+6;Município;2306009;Iracema - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;4184
+6;Município;2306009;Iracema - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;67
+6;Município;2306009;Iracema - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;544
+6;Município;2306108;Irauçuba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;7330
+6;Município;2306108;Irauçuba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;5485
+6;Município;2306108;Irauçuba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;188
+6;Município;2306108;Irauçuba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;1657
+6;Município;2306207;Itaiçaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;2816
+6;Município;2306207;Itaiçaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;2311
+6;Município;2306207;Itaiçaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;177
+6;Município;2306207;Itaiçaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;328
+6;Município;2306256;Itaitinga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;19522
+6;Município;2306256;Itaitinga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;18557
+6;Município;2306256;Itaitinga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;312
+6;Município;2306256;Itaitinga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;653
+6;Município;2306306;Itapajé - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;15629
+6;Município;2306306;Itapajé - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;11993
+6;Município;2306306;Itapajé - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;659
+6;Município;2306306;Itapajé - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;2977
+6;Município;2306405;Itapipoca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;41579
+6;Município;2306405;Itapipoca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;28470
+6;Município;2306405;Itapipoca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;1499
+6;Município;2306405;Itapipoca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;11610
+6;Município;2306504;Itapiúna - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;6115
+6;Município;2306504;Itapiúna - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;3877
+6;Município;2306504;Itapiúna - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;135
+6;Município;2306504;Itapiúna - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;2103
+6;Município;2306553;Itarema - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;12954
+6;Município;2306553;Itarema - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;7354
+6;Município;2306553;Itarema - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;1202
+6;Município;2306553;Itarema - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;4398
+6;Município;2306603;Itatira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;6688
+6;Município;2306603;Itatira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;3443
+6;Município;2306603;Itatira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;830
+6;Município;2306603;Itatira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;2415
+6;Município;2306702;Jaguaretama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;6050
+6;Município;2306702;Jaguaretama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;4344
+6;Município;2306702;Jaguaretama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;333
+6;Município;2306702;Jaguaretama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;1373
+6;Município;2306801;Jaguaribara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;3361
+6;Município;2306801;Jaguaribara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;3111
+6;Município;2306801;Jaguaribara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;37
+6;Município;2306801;Jaguaribara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;213
+6;Município;2306900;Jaguaribe - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;12399
+6;Município;2306900;Jaguaribe - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;11181
+6;Município;2306900;Jaguaribe - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;337
+6;Município;2306900;Jaguaribe - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;881
+6;Município;2307007;Jaguaruana - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;11726
+6;Município;2307007;Jaguaruana - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;9574
+6;Município;2307007;Jaguaruana - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;611
+6;Município;2307007;Jaguaruana - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;1541
+6;Município;2307106;Jardim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;8745
+6;Município;2307106;Jardim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;4100
+6;Município;2307106;Jardim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;1184
+6;Município;2307106;Jardim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;3461
+6;Município;2307205;Jati - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;2620
+6;Município;2307205;Jati - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;1886
+6;Município;2307205;Jati - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;181
+6;Município;2307205;Jati - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;553
+6;Município;2307254;Jijoca de Jericoacoara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;8795
+6;Município;2307254;Jijoca de Jericoacoara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;6971
+6;Município;2307254;Jijoca de Jericoacoara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;635
+6;Município;2307254;Jijoca de Jericoacoara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;1189
+6;Município;2307304;Juazeiro do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;97385
+6;Município;2307304;Juazeiro do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;91701
+6;Município;2307304;Juazeiro do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;1345
+6;Município;2307304;Juazeiro do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;4339
+6;Município;2307403;Jucás - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;8224
+6;Município;2307403;Jucás - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;6555
+6;Município;2307403;Jucás - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;312
+6;Município;2307403;Jucás - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;1357
+6;Município;2307502;Lavras da Mangabeira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;10477
+6;Município;2307502;Lavras da Mangabeira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;7295
+6;Município;2307502;Lavras da Mangabeira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;936
+6;Município;2307502;Lavras da Mangabeira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;2246
+6;Município;2307601;Limoeiro do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;21437
+6;Município;2307601;Limoeiro do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;19598
+6;Município;2307601;Limoeiro do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;623
+6;Município;2307601;Limoeiro do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;1216
+6;Município;2307635;Madalena - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;5603
+6;Município;2307635;Madalena - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;3409
+6;Município;2307635;Madalena - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;955
+6;Município;2307635;Madalena - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;1239
+6;Município;2307650;Maracanaú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;79675
+6;Município;2307650;Maracanaú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;77242
+6;Município;2307650;Maracanaú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;580
+6;Município;2307650;Maracanaú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;1853
+6;Município;2307700;Maranguape - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;35066
+6;Município;2307700;Maranguape - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;30800
+6;Município;2307700;Maranguape - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;868
+6;Município;2307700;Maranguape - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;3398
+6;Município;2307809;Marco - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;7594
+6;Município;2307809;Marco - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;6089
+6;Município;2307809;Marco - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;612
+6;Município;2307809;Marco - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;893
+6;Município;2307908;Martinópole - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;3698
+6;Município;2307908;Martinópole - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;2686
+6;Município;2307908;Martinópole - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;179
+6;Município;2307908;Martinópole - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;833
+6;Município;2308005;Massapê - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;12335
+6;Município;2308005;Massapê - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;9475
+6;Município;2308005;Massapê - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;442
+6;Município;2308005;Massapê - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;2418
+6;Município;2308104;Mauriti - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;14873
+6;Município;2308104;Mauriti - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;9618
+6;Município;2308104;Mauriti - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;924
+6;Município;2308104;Mauriti - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;4331
+6;Município;2308203;Meruoca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;4824
+6;Município;2308203;Meruoca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;2798
+6;Município;2308203;Meruoca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;204
+6;Município;2308203;Meruoca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;1822
+6;Município;2308302;Milagres - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;8755
+6;Município;2308302;Milagres - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;5291
+6;Município;2308302;Milagres - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;1669
+6;Município;2308302;Milagres - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;1795
+6;Município;2308351;Milhã - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;4660
+6;Município;2308351;Milhã - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;2631
+6;Município;2308351;Milhã - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;512
+6;Município;2308351;Milhã - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;1517
+6;Município;2308377;Miraíma - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;4259
+6;Município;2308377;Miraíma - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;3037
+6;Município;2308377;Miraíma - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;95
+6;Município;2308377;Miraíma - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;1127
+6;Município;2308401;Missão Velha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;11841
+6;Município;2308401;Missão Velha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;9289
+6;Município;2308401;Missão Velha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;839
+6;Município;2308401;Missão Velha - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;1713
+6;Município;2308500;Mombaça - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;13653
+6;Município;2308500;Mombaça - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;7831
+6;Município;2308500;Mombaça - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;1716
+6;Município;2308500;Mombaça - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;4106
+6;Município;2308609;Monsenhor Tabosa - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;5827
+6;Município;2308609;Monsenhor Tabosa - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;3894
+6;Município;2308609;Monsenhor Tabosa - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;652
+6;Município;2308609;Monsenhor Tabosa - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;1281
+6;Município;2308708;Morada Nova - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;22663
+6;Município;2308708;Morada Nova - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;19964
+6;Município;2308708;Morada Nova - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;317
+6;Município;2308708;Morada Nova - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;2382
+6;Município;2308807;Moraújo - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;2710
+6;Município;2308807;Moraújo - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;1894
+6;Município;2308807;Moraújo - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;32
+6;Município;2308807;Moraújo - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;784
+6;Município;2308906;Morrinhos - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;7285
+6;Município;2308906;Morrinhos - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;4901
+6;Município;2308906;Morrinhos - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;409
+6;Município;2308906;Morrinhos - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;1975
+6;Município;2309003;Mucambo - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;4994
+6;Município;2309003;Mucambo - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;3987
+6;Município;2309003;Mucambo - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;313
+6;Município;2309003;Mucambo - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;694
+6;Município;2309102;Mulungu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;3332
+6;Município;2309102;Mulungu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;1611
+6;Município;2309102;Mulungu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;353
+6;Município;2309102;Mulungu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;1368
+6;Município;2309201;Nova Olinda - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;5178
+6;Município;2309201;Nova Olinda - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;3862
+6;Município;2309201;Nova Olinda - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;152
+6;Município;2309201;Nova Olinda - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;1164
+6;Município;2309300;Nova Russas - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;10843
+6;Município;2309300;Nova Russas - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;9524
+6;Município;2309300;Nova Russas - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;318
+6;Município;2309300;Nova Russas - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;1001
+6;Município;2309409;Novo Oriente - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;9816
+6;Município;2309409;Novo Oriente - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;8932
+6;Município;2309409;Novo Oriente - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;303
+6;Município;2309409;Novo Oriente - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;581
+6;Município;2309458;Ocara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;8790
+6;Município;2309458;Ocara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;7528
+6;Município;2309458;Ocara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;257
+6;Município;2309458;Ocara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;1005
+6;Município;2309508;Orós - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;7171
+6;Município;2309508;Orós - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;6530
+6;Município;2309508;Orós - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;183
+6;Município;2309508;Orós - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;458
+6;Município;2309607;Pacajus - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;24053
+6;Município;2309607;Pacajus - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;14801
+6;Município;2309607;Pacajus - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;1751
+6;Município;2309607;Pacajus - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;7501
+6;Município;2309706;Pacatuba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;27103
+6;Município;2309706;Pacatuba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;26092
+6;Município;2309706;Pacatuba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;234
+6;Município;2309706;Pacatuba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;777
+6;Município;2309805;Pacoti - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;3663
+6;Município;2309805;Pacoti - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;1728
+6;Município;2309805;Pacoti - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;396
+6;Município;2309805;Pacoti - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;1539
+6;Município;2309904;Pacujá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;2199
+6;Município;2309904;Pacujá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;1809
+6;Município;2309904;Pacujá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;44
+6;Município;2309904;Pacujá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;346
+6;Município;2310001;Palhano - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;3256
+6;Município;2310001;Palhano - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;2689
+6;Município;2310001;Palhano - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;42
+6;Município;2310001;Palhano - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;525
+6;Município;2310100;Palmácia - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;3378
+6;Município;2310100;Palmácia - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;2018
+6;Município;2310100;Palmácia - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;87
+6;Município;2310100;Palmácia - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;1273
+6;Município;2310209;Paracuru - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;12982
+6;Município;2310209;Paracuru - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;3603
+6;Município;2310209;Paracuru - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;1148
+6;Município;2310209;Paracuru - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;8231
+6;Município;2310258;Paraipaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;10786
+6;Município;2310258;Paraipaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;6741
+6;Município;2310258;Paraipaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;638
+6;Município;2310258;Paraipaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;3407
+6;Município;2310308;Parambu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;11134
+6;Município;2310308;Parambu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;5387
+6;Município;2310308;Parambu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;1445
+6;Município;2310308;Parambu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;4302
+6;Município;2310407;Paramoti - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;3566
+6;Município;2310407;Paramoti - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;2332
+6;Município;2310407;Paramoti - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;239
+6;Município;2310407;Paramoti - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;995
+6;Município;2310506;Pedra Branca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;14235
+6;Município;2310506;Pedra Branca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;7753
+6;Município;2310506;Pedra Branca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;2020
+6;Município;2310506;Pedra Branca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;4462
+6;Município;2310605;Penaforte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;2919
+6;Município;2310605;Penaforte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;2393
+6;Município;2310605;Penaforte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;122
+6;Município;2310605;Penaforte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;404
+6;Município;2310704;Pentecoste - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;12719
+6;Município;2310704;Pentecoste - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;10240
+6;Município;2310704;Pentecoste - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;454
+6;Município;2310704;Pentecoste - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;2025
+6;Município;2310803;Pereiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;5281
+6;Município;2310803;Pereiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;2725
+6;Município;2310803;Pereiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;78
+6;Município;2310803;Pereiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;2478
+6;Município;2310852;Pindoretama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;7999
+6;Município;2310852;Pindoretama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;2186
+6;Município;2310852;Pindoretama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;560
+6;Município;2310852;Pindoretama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;5253
+6;Município;2310902;Piquet Carneiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;5737
+6;Município;2310902;Piquet Carneiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;4572
+6;Município;2310902;Piquet Carneiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;203
+6;Município;2310902;Piquet Carneiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;962
+6;Município;2310951;Pires Ferreira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;3261
+6;Município;2310951;Pires Ferreira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;1944
+6;Município;2310951;Pires Ferreira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;390
+6;Município;2310951;Pires Ferreira - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;927
+6;Município;2311009;Poranga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;4214
+6;Município;2311009;Poranga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;3030
+6;Município;2311009;Poranga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;288
+6;Município;2311009;Poranga - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;896
+6;Município;2311108;Porteiras - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;5565
+6;Município;2311108;Porteiras - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;4449
+6;Município;2311108;Porteiras - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;374
+6;Município;2311108;Porteiras - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;742
+6;Município;2311207;Potengi - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;3133
+6;Município;2311207;Potengi - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;2246
+6;Município;2311207;Potengi - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;114
+6;Município;2311207;Potengi - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;773
+6;Município;2311231;Potiretama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;2131
+6;Município;2311231;Potiretama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;1068
+6;Município;2311231;Potiretama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;7
+6;Município;2311231;Potiretama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;1056
+6;Município;2311264;Quiterianópolis - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;6944
+6;Município;2311264;Quiterianópolis - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;4271
+6;Município;2311264;Quiterianópolis - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;489
+6;Município;2311264;Quiterianópolis - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;2184
+6;Município;2311306;Quixadá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;28971
+6;Município;2311306;Quixadá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;22061
+6;Município;2311306;Quixadá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;750
+6;Município;2311306;Quixadá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;6160
+6;Município;2311355;Quixelô - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;5839
+6;Município;2311355;Quixelô - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;4431
+6;Município;2311355;Quixelô - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;489
+6;Município;2311355;Quixelô - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;919
+6;Município;2311405;Quixeramobim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;28609
+6;Município;2311405;Quixeramobim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;21924
+6;Município;2311405;Quixeramobim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;2701
+6;Município;2311405;Quixeramobim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;3984
+6;Município;2311504;Quixeré - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;7743
+6;Município;2311504;Quixeré - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;7120
+6;Município;2311504;Quixeré - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;143
+6;Município;2311504;Quixeré - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;480
+6;Município;2311603;Redenção - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;9138
+6;Município;2311603;Redenção - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;7149
+6;Município;2311603;Redenção - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;335
+6;Município;2311603;Redenção - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;1654
+6;Município;2311702;Reriutaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;6583
+6;Município;2311702;Reriutaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;5059
+6;Município;2311702;Reriutaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;139
+6;Município;2311702;Reriutaba - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;1385
+6;Município;2311801;Russas - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;26409
+6;Município;2311801;Russas - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;21352
+6;Município;2311801;Russas - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;997
+6;Município;2311801;Russas - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;4060
+6;Município;2311900;Saboeiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;4926
+6;Município;2311900;Saboeiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;2750
+6;Município;2311900;Saboeiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;873
+6;Município;2311900;Saboeiro - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;1303
+6;Município;2311959;Salitre - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;5367
+6;Município;2311959;Salitre - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;1629
+6;Município;2311959;Salitre - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;432
+6;Município;2311959;Salitre - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;3306
+6;Município;2312007;Santana do Acaraú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;9656
+6;Município;2312007;Santana do Acaraú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;6504
+6;Município;2312007;Santana do Acaraú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;509
+6;Município;2312007;Santana do Acaraú - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;2643
+6;Município;2312106;Santana do Cariri - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;5630
+6;Município;2312106;Santana do Cariri - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;3331
+6;Município;2312106;Santana do Cariri - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;248
+6;Município;2312106;Santana do Cariri - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;2051
+6;Município;2312205;Santa Quitéria - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;13977
+6;Município;2312205;Santa Quitéria - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;9835
+6;Município;2312205;Santa Quitéria - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;578
+6;Município;2312205;Santa Quitéria - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;3564
+6;Município;2312304;São Benedito - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;15616
+6;Município;2312304;São Benedito - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;12419
+6;Município;2312304;São Benedito - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;842
+6;Município;2312304;São Benedito - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;2355
+6;Município;2312403;São Gonçalo do Amarante - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;17957
+6;Município;2312403;São Gonçalo do Amarante - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;7908
+6;Município;2312403;São Gonçalo do Amarante - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;1495
+6;Município;2312403;São Gonçalo do Amarante - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;8554
+6;Município;2312502;São João do Jaguaribe - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;2371
+6;Município;2312502;São João do Jaguaribe - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;2060
+6;Município;2312502;São João do Jaguaribe - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;283
+6;Município;2312502;São João do Jaguaribe - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;28
+6;Município;2312601;São Luís do Curu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;3865
+6;Município;2312601;São Luís do Curu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;2928
+6;Município;2312601;São Luís do Curu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;112
+6;Município;2312601;São Luís do Curu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;825
+6;Município;2312700;Senador Pompeu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;8958
+6;Município;2312700;Senador Pompeu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;7035
+6;Município;2312700;Senador Pompeu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;404
+6;Município;2312700;Senador Pompeu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;1519
+6;Município;2312809;Senador Sá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;2426
+6;Município;2312809;Senador Sá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;1725
+6;Município;2312809;Senador Sá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;99
+6;Município;2312809;Senador Sá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;602
+6;Município;2312908;Sobral - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;68018
+6;Município;2312908;Sobral - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;63803
+6;Município;2312908;Sobral - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;1046
+6;Município;2312908;Sobral - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;3169
+6;Município;2313005;Solonópole - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;6590
+6;Município;2313005;Solonópole - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;5237
+6;Município;2313005;Solonópole - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;344
+6;Município;2313005;Solonópole - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;1009
+6;Município;2313104;Tabuleiro do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;11737
+6;Município;2313104;Tabuleiro do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;8823
+6;Município;2313104;Tabuleiro do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;312
+6;Município;2313104;Tabuleiro do Norte - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;2602
+6;Município;2313203;Tamboril - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;8624
+6;Município;2313203;Tamboril - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;6171
+6;Município;2313203;Tamboril - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;775
+6;Município;2313203;Tamboril - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;1678
+6;Município;2313252;Tarrafas - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;2661
+6;Município;2313252;Tarrafas - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;1401
+6;Município;2313252;Tarrafas - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;138
+6;Município;2313252;Tarrafas - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;1122
+6;Município;2313302;Tauá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;21105
+6;Município;2313302;Tauá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;14579
+6;Município;2313302;Tauá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;1682
+6;Município;2313302;Tauá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;4844
+6;Município;2313351;Tejuçuoca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;5603
+6;Município;2313351;Tejuçuoca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;4341
+6;Município;2313351;Tejuçuoca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;194
+6;Município;2313351;Tejuçuoca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;1068
+6;Município;2313401;Tianguá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;25654
+6;Município;2313401;Tianguá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;21287
+6;Município;2313401;Tianguá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;783
+6;Município;2313401;Tianguá - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;3584
+6;Município;2313500;Trairi - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;18908
+6;Município;2313500;Trairi - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;6554
+6;Município;2313500;Trairi - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;1508
+6;Município;2313500;Trairi - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;10846
+6;Município;2313559;Tururu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;5077
+6;Município;2313559;Tururu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;4495
+6;Município;2313559;Tururu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;85
+6;Município;2313559;Tururu - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;497
+6;Município;2313609;Ubajara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;10508
+6;Município;2313609;Ubajara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;7171
+6;Município;2313609;Ubajara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;744
+6;Município;2313609;Ubajara - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;2593
+6;Município;2313708;Umari - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;2406
+6;Município;2313708;Umari - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;1507
+6;Município;2313708;Umari - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;173
+6;Município;2313708;Umari - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;726
+6;Município;2313757;Umirim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;5656
+6;Município;2313757;Umirim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;4460
+6;Município;2313757;Umirim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;131
+6;Município;2313757;Umirim - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;1065
+6;Município;2313807;Uruburetama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;6399
+6;Município;2313807;Uruburetama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;4799
+6;Município;2313807;Uruburetama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;171
+6;Município;2313807;Uruburetama - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;1429
+6;Município;2313906;Uruoca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;4664
+6;Município;2313906;Uruoca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;3387
+6;Município;2313906;Uruoca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;249
+6;Município;2313906;Uruoca - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;1028
+6;Município;2313955;Varjota - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;6118
+6;Município;2313955;Varjota - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;5290
+6;Município;2313955;Varjota - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;358
+6;Município;2313955;Varjota - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;470
+6;Município;2314003;Várzea Alegre - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;14046
+6;Município;2314003;Várzea Alegre - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;10375
+6;Município;2314003;Várzea Alegre - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;696
+6;Município;2314003;Várzea Alegre - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;2975
+6;Município;2314102;Viçosa do Ceará - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72129;Total;1020;Unidades;18273
+6;Município;2314102;Viçosa do Ceará - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72144;Possui ligação à rede geral e a utiliza como forma principal;1020;Unidades;10404
+6;Município;2314102;Viçosa do Ceará - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72145;Possui ligação à rede geral, mas utiliza principalmente outra forma;1020;Unidades;1165
+6;Município;2314102;Viçosa do Ceará - CE;381;Domicílios particulares permanentes ocupados;2022;2022;72153;Não possui ligação com a rede geral;1020;Unidades;6704
