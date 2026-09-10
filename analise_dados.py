@@ -18,12 +18,12 @@ def carregar_csv(caminho):
 
     try:
         return pd.read_csv(
-            caminho,
-            sep=None,
-            engine="python",
-            dtype=str,
-            keep_default_na=False,
-            encoding="utf-8-sig"
+            caminho, #Caminho do arquivo CSV
+            sep=None, #BUsca automaticamente o separador do CSV
+            engine="python",#Motor de leitura do CSV
+            dtype=str,#Mantém todos os valores como texto
+            keep_default_na=False,#Mantém os valores vazios como texto
+            encoding="utf-8-sig"#Mantém a codificação UTF-8 
         )
 
     except UnicodeDecodeError:
@@ -41,6 +41,11 @@ def mostrar_valores_unicos(df, coluna, limite=30):
     """
     Mostra os valores diferentes de uma coluna,
     desde que ela não tenha valores demais.
+
+    Recebe :
+        df: DataFrame do Pandas
+        coluna: nome da coluna a ser inspecionada
+        limite: quantidade máxima de valores diferentes a serem exibidos
     """
 
     valores = (
@@ -108,6 +113,10 @@ def inspecionar_base(caminho):
                 f"  - {coluna}: {quantidade} "
                 f"({percentual:.2f}%)"
             )
+
+        if quantidade == 0:
+            print(f"  - {coluna}: 0")
+            continue
 
     # Símbolos especiais
     print("\nSÍMBOLOS ESPECIAIS DO SIDRA:")
