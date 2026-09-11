@@ -21,6 +21,7 @@ def carregar_csv(caminho):
             caminho, #Caminho do arquivo CSV
             sep=None, #BUsca automaticamente o separador do CSV
             engine="python",#Motor de leitura do CSV
+            skiprows=[1],#Ignora a segunda linha, que contém descrições do SIDRA
             dtype=str,#Mantém todos os valores como texto
             keep_default_na=False,#Mantém os valores vazios como texto
             encoding="utf-8-sig"#Mantém a codificação UTF-8 
@@ -31,6 +32,7 @@ def carregar_csv(caminho):
             caminho,
             sep=None,
             engine="python",
+            skiprows=[1],
             dtype=str,
             keep_default_na=False,
             encoding="latin-1"
@@ -70,6 +72,34 @@ def mostrar_valores_unicos(df, coluna, limite=30):
             print(f"  - {valor}")
 
 
+def mostrar_primeiras_linhas(df, quantidade=5):
+    """Exibe cada registro verticalmente para evitar que o terminal quebre a tabela."""
+
+    rotulos = {
+        "NC": "Nível territorial (código)",
+        "NN": "Nível territorial",
+        "D1C": "Território (código)",
+        "D1N": "Território",
+        "D2C": "Variável (código)",
+        "D2N": "Variável",
+        "D3C": "Ano (código)",
+        "D3N": "Ano",
+        "D4C": "Categoria (código)",
+        "D4N": "Categoria",
+        "MC": "Unidade (código)",
+        "MN": "Unidade",
+        "V": "Valor",
+    }
+
+    for numero, (_, linha) in enumerate(df.head(quantidade).iterrows(), start=1):
+        print(f"\nREGISTRO {numero}")
+        print("-" * 70)
+
+        for coluna, valor in linha.items():
+            rotulo = rotulos.get(coluna, coluna)
+            print(f"{rotulo:<28}: {valor}")
+
+
 def inspecionar_base(caminho):
     """
     Exibe as principais informações necessárias
@@ -94,7 +124,7 @@ def inspecionar_base(caminho):
 
     # Primeiras linhas
     print("\nPRIMEIRAS 5 LINHAS:")
-    print(df.head().to_string(index=False))
+    mostrar_primeiras_linhas(df, quantidade=5)
 
     # Duplicatas completas
     print("\nDUPLICATAS COMPLETAS:")
