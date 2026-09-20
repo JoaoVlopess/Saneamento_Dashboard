@@ -183,6 +183,18 @@ def inspecionar_base(caminho):
     print("\nVARIÁVEIS, UNIDADES E CATEGORIAS:")
 
     for coluna in df.columns:
+
+        mascara_ausente = (
+        df[coluna].isna() | df[coluna].astype("string").str.strip().eq("")
+        )
+
+        quantidade = mascara_ausente.sum()
+        percentual = mascara_ausente.mean() * 100
+        print(
+            f"{coluna}: {quantidade} ausentes "
+            f"({percentual:.2f}%)"
+        )
+
         nome_normalizado = coluna.lower()
 
         if any(termo in nome_normalizado for termo in termos_importantes):
