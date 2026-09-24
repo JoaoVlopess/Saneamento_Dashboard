@@ -442,6 +442,7 @@ filtrado = filtrado.merge(calcular_distancia_fortaleza(), on="D1C", how="left")
 
 # --- 1) Concentração por km² + Lixo e densidade (área com abas) -------------
 st.subheader("📐 Concentração de déficit de esgoto e lixo por densidade")
+
 tab_conc, tab_lixo_dens = st.tabs([
     "Concentração por km²",
     "Lixo e densidade",
@@ -449,22 +450,43 @@ tab_conc, tab_lixo_dens = st.tabs([
 
 with tab_conc:
     st.markdown("#### Concentração de déficit de esgoto por km²")
+
     top_concentracao = filtrado.nlargest(10, "deficit_esgoto_por_km2")
+
     fig_concentracao = px.bar(
-        top_concentracao, x="deficit_esgoto_por_km2", y="municipio",
-        orientation="h", color="deficit_esgoto_por_km2",
+        top_concentracao,
+        x="deficit_esgoto_por_km2",
+        y="municipio",
+        orientation="h",
+        color="deficit_esgoto_por_km2",
         color_continuous_scale="Reds",
-        labels={"deficit_esgoto_por_km2": "Domicílios em déficit por km²", "municipio": ""},
+        labels={
+            "deficit_esgoto_por_km2": "Domicílios em déficit por km²",
+            "municipio": ""
+        },
     )
+
     fig_concentracao.update_layout(
-        yaxis=dict(autorange="reversed"), coloraxis_showscale=False, height=450
+        yaxis=dict(autorange="reversed"),
+        xaxis=dict(tickformat=".2f"),
+        coloraxis_showscale=False,
+        height=450
     )
+
     fig_concentracao.update_traces(
-        texttemplate="%{x:.2f}", textposition="outside"
+        texttemplate="%{x:.2f}",
+        textposition="outside",
+        hovertemplate=(
+            "%{y}<br>"
+            "Domicílios em déficit por km²: %{x:.2f}"
+            "<extra></extra>"
+        )
     )
+
     st.plotly_chart(fig_concentracao, width="stretch")
 
     fortaleza_row = filtrado[filtrado["municipio"] == "Fortaleza"]
+
     if not fortaleza_row.empty:
         st.info(
             f"Fortaleza apresenta "
@@ -472,26 +494,61 @@ with tab_conc:
             "domicílios em déficit de esgoto por km² no recorte atual."
         )
 
+
 with tab_lixo_dens:
     st.markdown("#### Lixo inadequado x densidade")
+
+    # Cria os quartis de densidade
     filtrado["dens_quartil"] = pd.qcut(
         filtrado["densidade"],
         min(4, filtrado["densidade"].nunique()),
         duplicates="drop"
     )
+
+    # Calcula a média de lixo inadequado por quartil
     medias = (
         filtrado.groupby("dens_quartil", observed=True)["pct_lixo_inadequado"]
-        .mean().round(2).reset_index()
+        .mean()
+        .round(2)
+        .reset_index()
     )
-    medias["dens_quartil"] = medias["dens_quartil"].astype(str)
+
+    # Formata os intervalos dos quartis para apenas 2 casas decimais
+    def formatar_intervalo(intervalo):
+        return (
+            f"({intervalo.left:.2f}, {intervalo.right:.2f}]"
+        )
+
+    medias["dens_quartil"] = medias["dens_quartil"].apply(
+        formatar_intervalo
+    )
+
     fig_lixo_dens = px.bar(
-        medias, x="dens_quartil", y="pct_lixo_inadequado",
+        medias,
+        x="dens_quartil",
+        y="pct_lixo_inadequado",
         labels={
             "dens_quartil": "Quartil de densidade (hab/km²)",
             "pct_lixo_inadequado": "% lixo inadequado",
         },
     )
-    fig_lixo_dens.update_traces(texttemplate="%{y:.2f}%", textposition="outside")
+
+    fig_lixo_dens.update_layout(
+        yaxis=dict(
+            tickformat=".2f"
+        )
+    )
+
+    fig_lixo_dens.update_traces(
+        texttemplate="%{y:.2f}%",
+        textposition="outside",
+        hovertemplate=(
+            "%{x}<br>"
+            "Lixo inadequado: %{y:.2f}%"
+            "<extra></extra>"
+        )
+    )
+
     st.plotly_chart(fig_lixo_dens, width="stretch")
 
 st.divider()
