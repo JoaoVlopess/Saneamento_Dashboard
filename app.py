@@ -10,20 +10,15 @@ Como usar:
 3. pip install streamlit pandas plotly geopandas --break-system-packages
 4. streamlit run app/app.py
 
-Este protótipo aborda 9 insights, sinalizados como "Insight N" ao longo
-da página:
-  1. Esgoto é o gargalo mais grave dos três (KPIs)
-  2. Descompasso entre água e esgoto (Cruzamento entre bases)
-  3. Distância até Fortaleza não garante esgoto melhor (idem)
-  4. Lixo mal destinado cai com a densidade (idem)
-  5. Padrão geográfico do déficit (Comparação territorial)
-  6. Revisão das 8 categorias de esgotamento sanitário (seção própria)
-  7. O paradoxo de Fortaleza — melhor taxa, maior concentração absoluta
-     (Cruzamento entre bases; tabelas 4714 x 6805)
-  8. Esgoto anda por conta própria — correlação fraca com água e lixo
-     (Cruzamento entre bases; as 3 tabelas de saneamento entre si)
-  9. Até os melhores têm esgoto ruim — reforço do Insight 1, NÃO é um
-     cruzamento novo (usa só a tabela 6805 filtrada pelo próprio índice)
+Organização final das análises:
+  1. Revisão metodológica — categorias de água, esgoto e lixo (3 abas)
+  2. KPIs gerais
+  3. Comparação territorial e municípios prioritários
+  4. Cruzamentos entre bases (empilhados, um por seção):
+     a) Concentração por km² + lixo e densidade (abas)
+     b) Água x esgoto
+     c) Distância até Fortaleza + até os melhores têm esgoto ruim (abas)
+     d) Correlação entre dimensões
 
 Pendências conhecidas: mover esta lógica de carga para notebooks/ + src/
 conforme a arquitetura raw/processed/analytical, e a equipe decidir a
@@ -198,7 +193,7 @@ st.caption(
 st.markdown(
     "Onde estão os maiores déficits de água, esgotamento e coleta de lixo "
     "no Ceará, e quais municípios deveriam ser priorizados? Este protótipo "
-    "organiza a resposta em 9 análises, detalhadas ao longo da página. "
+    "organiza a resposta em análises detalhadas ao longo da página. "
     "Use o filtro na barra lateral para explorar por município específico."
 )
 
@@ -212,14 +207,117 @@ with st.expander("Evidência de integração das bases (cardinalidade e correspo
 
 st.divider()
 
+# ---------------------------------------------------------------------------
+# Filtros (barra lateral) — movidos para antes da revisão metodológica,
+# que já usa o recorte `filtrado`
+# ---------------------------------------------------------------------------
+st.sidebar.header("Filtros")
+municipios_sel = st.sidebar.multiselect(
+    "Municípios específicos (opcional)", sorted(base["municipio"].unique())
+)
+
+filtrado = base.copy()
+if municipios_sel:
+    filtrado = filtrado[filtrado["municipio"].isin(municipios_sel)]
+
+if filtrado.empty:
+    st.warning("Nenhum município corresponde à seleção. Ajuste os municípios escolhidos.")
+    st.stop()
+
+st.divider()
+
+# ---------------------------------------------------------------------------
+# Revisão metodológica (agora antes dos KPIs)
+# ---------------------------------------------------------------------------
+st.header("🧭 Revisão metodológica")
+st.markdown("#### 🔎 Categorias consideradas nas três dimensões")
+
+tab_agua_cat, tab_esgoto_cat, tab_lixo_cat = st.tabs(["Água", "Esgoto", "Lixo"])
+
+
+def mostrar_categorias(categorias, titulo_eixo):
+    soma = {k: filtrado[v].fillna(0).sum() for k, v in categorias.items()}
+    total = sum(soma.values())
+    if total == 0:
+        st.warning("Não há dados suficientes para exibir esta distribuição.")
+        return
+    df_cat = pd.DataFrame({
+        "categoria": list(soma.keys()),
+        "pct": [round(100 * v / total, 2) for v in soma.values()],
+    }).sort_values("pct")
+    fig = px.bar(
+        df_cat, x="pct", y="categoria", orientation="h",
+        labels={"pct": "% dos domicílios (recorte atual)", "categoria": ""},
+    )
+    fig.update_traces(texttemplate="%{x:.2f}%", textposition="outside")
+    fig.update_layout(height=max(350, 55 * len(df_cat)))
+    st.plotly_chart(fig, width="stretch")
+
+
+with tab_agua_cat:
+    mostrar_categorias({
+        "Rede geral": "agua_rede_usa",
+        "Outra forma de abastecimento por rede": "agua_rede_outra",
+        "Sem rede geral": "agua_sem_rede",
+    }, "Água")
+    st.caption(
+        "Distribuição das categorias de abastecimento de água utilizadas "
+        "no cálculo do indicador."
+    )
+
+with tab_esgoto_cat:
+    cats_map = {
+        "Rede geral ou pluvial": "esg_rede",
+        "Fossa séptica ligada": "esg_fossa_lig",
+        "Fossa séptica não ligada": "esg_fossa_nlig",
+        "Fossa rudimentar/buraco": "esg_rudimentar",
+        "Vala": "esg_vala",
+        "Rio/lago/córrego/mar": "esg_rio",
+        "Outra forma": "esg_outra",
+        "Sem banheiro": "esg_sem_ban",
+    }
+    mostrar_categorias(cats_map, "Esgoto")
+    st.caption(
+        "Classificação atual da equipe: as categorias 'Fossa séptica não ligada' "
+        "e 'Outra forma' permanecem indefinidas e não entram em "
+        "pct_esgoto_inadequado."
+    )
+
+with tab_lixo_cat:
+    mostrar_categorias({
+        "Coletado": "lixo_coletado_dom",
+        "Caçamba": "lixo_cacamba",
+        "Queimado": "lixo_queimado",
+        "Enterrado": "lixo_enterrado",
+        "Terreno baldio": "lixo_terreno_baldio",
+        "Outro destino": "lixo_outro",
+    }, "Lixo")
+    st.caption(
+        "A classificação de 'lixo inadequado' usada no índice considera "
+        "queimado, enterrado e terreno baldio."
+    )
+
+st.divider()
+
+# ---------------------------------------------------------------------------
+# KPIs gerais
+# ---------------------------------------------------------------------------
 st.header("📊 KPIs gerais")
-st.markdown("#### 🔎 Esgoto é o gargalo mais grave dos três")
 
 c1, c2, c3, c4 = st.columns(4)
 c1.metric("Municípios analisados", len(base))
-c2.metric("Água sem rede geral (média entre municípios)", f"{base['pct_agua_sem_rede'].mean():.2f}%")
-c3.metric("Esgoto inadequado (média entre municípios)", f"{base['pct_esgoto_inadequado'].mean():.2f}%")
-c4.metric("Lixo mal destinado (média entre municípios)", f"{base['pct_lixo_inadequado'].mean():.2f}%")
+c2.metric(
+    "Água sem rede geral (média entre municípios)",
+    f"{base['pct_agua_sem_rede'].mean():.2f}%",
+)
+c3.metric(
+    "Esgoto inadequado (média entre municípios)",
+    f"{base['pct_esgoto_inadequado'].mean():.2f}%",
+)
+c4.metric(
+    "Lixo mal destinado (média entre municípios)",
+    f"{base['pct_lixo_inadequado'].mean():.2f}%",
+)
 
 fig_comparacao = px.bar(
     pd.DataFrame({
@@ -238,28 +336,11 @@ fig_comparacao.update_layout(showlegend=False, height=380)
 fig_comparacao.update_traces(texttemplate="%{y:.2f}%", textposition="outside")
 st.plotly_chart(fig_comparacao, width="stretch")
 
-razao = (100 - base["pct_esgoto_rede"].mean()) / base["pct_agua_sem_rede"].mean()
-st.success(
-    f"**Esgoto está {razao:.2f}x pior que água** na média dos 184 municípios — "
-    "se o estado tivesse que escolher uma prioridade única de investimento em "
-    "saneamento, esse número praticamente responde sozinho."
-)
-
 st.divider()
 
-st.sidebar.header("Filtros")
-municipios_sel = st.sidebar.multiselect("Municípios específicos (opcional)", sorted(base["municipio"].unique()))
-
-filtrado = base.copy()
-if municipios_sel:
-    filtrado = filtrado[filtrado["municipio"].isin(municipios_sel)]
-
-if filtrado.empty:
-    st.warning("Nenhum município corresponde à seleção. Ajuste os municípios escolhidos.")
-    st.stop()
-
-st.divider()
-
+# ---------------------------------------------------------------------------
+# Comparação territorial
+# ---------------------------------------------------------------------------
 st.header("🗺️ Comparação territorial")
 st.markdown("#### 🔎 Padrão geográfico do déficit, por dimensão")
 
@@ -320,6 +401,9 @@ for tab, (coluna, rotulo) in mapas_territorio.items():
 
 st.divider()
 
+# ---------------------------------------------------------------------------
+# Municípios prioritários
+# ---------------------------------------------------------------------------
 st.header("🎯 Municípios prioritários (maior déficit combinado)")
 top_piores = filtrado.sort_values("indice_deficit", ascending=False).head(15)
 fig_rank = px.bar(
@@ -328,6 +412,7 @@ fig_rank = px.bar(
     labels={"indice_deficit": "Índice de déficit (0-100)", "municipio": ""},
 )
 fig_rank.update_layout(yaxis=dict(autorange="reversed"), coloraxis_showscale=False, height=500)
+fig_rank.update_traces(texttemplate="%{x:.2f}", textposition="outside")
 st.plotly_chart(fig_rank, width="stretch")
 st.caption(
     "Índice exploratório da equipe: média simples de % água sem rede, "
@@ -336,7 +421,10 @@ st.caption(
 
 st.divider()
 
-st.header("🔗 Cruzamento entre bases")
+# ---------------------------------------------------------------------------
+# Cruzamentos entre bases (empilhados, um por seção)
+# ---------------------------------------------------------------------------
+st.header("🔗 Cruzamentos entre bases")
 
 
 @st.cache_data
@@ -352,38 +440,98 @@ def calcular_distancia_fortaleza():
 
 filtrado = filtrado.merge(calcular_distancia_fortaleza(), on="D1C", how="left")
 
-tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs([
-    "Água x esgoto",
-    "Distância até Fortaleza",
-    "Lixo x densidade",
+# --- 1) Concentração por km² + Lixo e densidade (área com abas) -------------
+st.subheader("📐 Concentração de déficit de esgoto e lixo por densidade")
+tab_conc, tab_lixo_dens = st.tabs([
     "Concentração por km²",
-    "Correlação entre dimensões",
+    "Lixo e densidade",
+])
+
+with tab_conc:
+    st.markdown("#### Concentração de déficit de esgoto por km²")
+    top_concentracao = filtrado.nlargest(10, "deficit_esgoto_por_km2")
+    fig_concentracao = px.bar(
+        top_concentracao, x="deficit_esgoto_por_km2", y="municipio",
+        orientation="h", color="deficit_esgoto_por_km2",
+        color_continuous_scale="Reds",
+        labels={"deficit_esgoto_por_km2": "Domicílios em déficit por km²", "municipio": ""},
+    )
+    fig_concentracao.update_layout(
+        yaxis=dict(autorange="reversed"), coloraxis_showscale=False, height=450
+    )
+    fig_concentracao.update_traces(
+        texttemplate="%{x:.2f}", textposition="outside"
+    )
+    st.plotly_chart(fig_concentracao, width="stretch")
+
+    fortaleza_row = filtrado[filtrado["municipio"] == "Fortaleza"]
+    if not fortaleza_row.empty:
+        st.info(
+            f"Fortaleza apresenta "
+            f"{fortaleza_row['deficit_esgoto_por_km2'].values[0]:.2f} "
+            "domicílios em déficit de esgoto por km² no recorte atual."
+        )
+
+with tab_lixo_dens:
+    st.markdown("#### Lixo inadequado x densidade")
+    filtrado["dens_quartil"] = pd.qcut(
+        filtrado["densidade"],
+        min(4, filtrado["densidade"].nunique()),
+        duplicates="drop"
+    )
+    medias = (
+        filtrado.groupby("dens_quartil", observed=True)["pct_lixo_inadequado"]
+        .mean().round(2).reset_index()
+    )
+    medias["dens_quartil"] = medias["dens_quartil"].astype(str)
+    fig_lixo_dens = px.bar(
+        medias, x="dens_quartil", y="pct_lixo_inadequado",
+        labels={
+            "dens_quartil": "Quartil de densidade (hab/km²)",
+            "pct_lixo_inadequado": "% lixo inadequado",
+        },
+    )
+    fig_lixo_dens.update_traces(texttemplate="%{y:.2f}%", textposition="outside")
+    st.plotly_chart(fig_lixo_dens, width="stretch")
+
+st.divider()
+
+# --- 2) Água x esgoto ------------------------------------------------------
+st.subheader("💧 Água x esgoto")
+st.markdown("#### Descompasso entre água e esgoto")
+filtrado["gap_agua_esgoto"] = (
+    filtrado["pct_esgoto_inadequado"] - filtrado["pct_agua_sem_rede"]
+)
+top_gap = filtrado.sort_values("gap_agua_esgoto", ascending=False).head(15)
+fig_gap = px.bar(
+    top_gap, x="gap_agua_esgoto", y="municipio", orientation="h",
+    color="gap_agua_esgoto", color_continuous_scale="Reds",
+    labels={"gap_agua_esgoto": "Gap esgoto - água (p.p.)", "municipio": ""},
+)
+fig_gap.update_layout(
+    yaxis=dict(autorange="reversed"), coloraxis_showscale=False, height=500
+)
+fig_gap.update_traces(texttemplate="%{x:.2f}", textposition="outside")
+st.plotly_chart(fig_gap, width="stretch")
+st.info(
+    f"Gap médio no recorte atual: {filtrado['gap_agua_esgoto'].mean():.2f} p.p."
+)
+
+st.divider()
+
+# --- 3) Distância até Fortaleza + Até os melhores têm esgoto ruim (abas) ---
+st.subheader("📍 Distância até Fortaleza e desempenho dos melhores")
+tab_dist, tab_melhores = st.tabs([
+    "Distância até Fortaleza",
     "Até os melhores têm esgoto ruim",
 ])
 
-with tab1:
-    st.markdown("#### 🔎 Descompasso entre água e esgoto")
-    filtrado["gap_agua_esgoto"] = filtrado["pct_esgoto_inadequado"] - filtrado["pct_agua_sem_rede"]
-    top_gap = filtrado.sort_values("gap_agua_esgoto", ascending=False).head(15)
-    fig_gap = px.bar(
-        top_gap, x="gap_agua_esgoto", y="municipio", orientation="h",
-        color="gap_agua_esgoto", color_continuous_scale="Reds",
-        labels={"gap_agua_esgoto": "Gap esgoto - água (p.p.)", "municipio": ""},
-    )
-    fig_gap.update_layout(yaxis=dict(autorange="reversed"), coloraxis_showscale=False, height=500)
-    st.plotly_chart(fig_gap, width="stretch")
-    st.success(
-        f"Gap médio no recorte atual: **{filtrado['gap_agua_esgoto'].mean():.2f} p.p.** "
-        "— municípios onde a água chegou mas o esgoto não acompanhou. Mostra "
-        "que investir numa dimensão do saneamento não garante investimento "
-        "equivalente na outra."
-    )
-
-with tab2:
-    st.markdown("#### 🔎 Proximidade com a capital não garante esgoto melhor")
+with tab_dist:
+    st.markdown("#### Proximidade com Fortaleza e cobertura de esgoto")
     fig_dist = px.scatter(
-        filtrado, x="dist_fortaleza_km", y="pct_esgoto_rede", hover_name="municipio",
-        color="categoria_desempenho", color_discrete_map=CORES_DESEMPENHO,
+        filtrado, x="dist_fortaleza_km", y="pct_esgoto_rede",
+        hover_name="municipio", color="categoria_desempenho",
+        color_discrete_map=CORES_DESEMPENHO,
         labels={
             "dist_fortaleza_km": "Distância até Fortaleza (km, centroide)",
             "pct_esgoto_rede": "% esgoto rede geral",
@@ -392,86 +540,27 @@ with tab2:
     )
     st.plotly_chart(fig_dist, width="stretch")
     corr = filtrado["dist_fortaleza_km"].corr(filtrado["pct_esgoto_rede"])
-    st.success(
-        f"Correlação no recorte atual: **{corr:.2f}** — praticamente nula. "
-        "Proximidade geográfica com a capital não garante, sozinha, melhor "
-        "cobertura de esgoto (Sobral, bem mais distante, tem cobertura maior "
-        "que Aquiraz, colado a Fortaleza). Cor = posição no índice de déficit "
-        "combinado, não só nesta métrica."
-    )
+    st.info(f"Correlação no recorte atual: {corr:.2f}.")
 
-with tab3:
-    st.markdown("#### 🔎 Lixo mal destinado cai conforme a densidade sobe")
-    filtrado["dens_quartil"] = pd.qcut(
-        filtrado["densidade"], min(4, filtrado["densidade"].nunique()), duplicates="drop"
-    )
-    medias = filtrado.groupby("dens_quartil", observed=True)["pct_lixo_inadequado"].mean().reset_index()
-    medias["dens_quartil"] = medias["dens_quartil"].astype(str)
-    fig_lixo_dens = px.bar(
-        medias, x="dens_quartil", y="pct_lixo_inadequado",
-        labels={"dens_quartil": "Quartil de densidade (hab/km²)", "pct_lixo_inadequado": "% lixo inadequado (média)"},
-    )
-    fig_lixo_dens.update_traces(texttemplate="%{y:.2f}%", textposition="outside")
-    st.plotly_chart(fig_lixo_dens, width="stretch")
-    st.success(
-        "Municípios menos densos tendem a queimar/enterrar/jogar mais lixo, "
-        "provavelmente por falta de coleta regular — o modelo de serviço "
-        "público de coleta parece funcionar melhor em áreas urbanas densas."
-    )
-
-with tab4:
-    st.markdown("#### 🔎 O paradoxo de Fortaleza")
-    top_concentracao = filtrado.nlargest(10, "deficit_esgoto_por_km2")
-    fig_concentracao = px.bar(
-        top_concentracao, x="deficit_esgoto_por_km2", y="municipio", orientation="h",
-        color="deficit_esgoto_por_km2", color_continuous_scale="Reds",
-        labels={"deficit_esgoto_por_km2": "Domicílios em déficit por km²", "municipio": ""},
-    )
-    fig_concentracao.update_layout(yaxis=dict(autorange="reversed"), coloraxis_showscale=False, height=450)
-    st.plotly_chart(fig_concentracao, width="stretch")
-    fortaleza_row = filtrado[filtrado["municipio"] == "Fortaleza"]
-    if not fortaleza_row.empty:
-        st.success(
-            f"Fortaleza tem uma das melhores **taxas** de esgoto inadequado "
-            f"({fortaleza_row['pct_esgoto_inadequado'].values[0]:.2f}%), mas concentra "
-            f"**{int(fortaleza_row['domicilios_deficit_esgoto'].values[0]):,}** domicílios "
-            f"em situação inadequada — a maior densidade absoluta de problema do estado "
-            f"({fortaleza_row['deficit_esgoto_por_km2'].values[0]:.2f} domicílios/km²). "
-            "Taxa baixa não significa poucas pessoas afetadas."
-        )
-    st.caption(
-        "Cruzamento: tabela 4714 (área) × tabela 6805 (domicílios com "
-        "esgoto inadequado)."
-    )
-
-with tab5:
-    st.markdown("#### 🔎 Esgoto anda por conta própria")
-    corr_dim = filtrado[["pct_agua_sem_rede", "pct_esgoto_inadequado", "pct_lixo_inadequado"]].corr().round(2)
-    fig_corr = px.imshow(
-        corr_dim, text_auto=True, color_continuous_scale="RdBu_r", zmin=-1, zmax=1,
-        labels=dict(color="Correlação"),
-        x=["Água", "Esgoto", "Lixo"], y=["Água", "Esgoto", "Lixo"],
-    )
-    st.plotly_chart(fig_corr, width="stretch")
-    st.success(
-        f"Água e lixo têm correlação moderada entre si "
-        f"(**{corr_dim.loc['pct_agua_sem_rede','pct_lixo_inadequado']:.2f}**). Esgoto é a dimensão "
-        f"mais desacoplada das três (correlação de "
-        f"**{corr_dim.loc['pct_agua_sem_rede','pct_esgoto_inadequado']:.2f}** com água), o que "
-        "questiona se faz sentido tratar as 3 dimensões como equivalentes numa média simples."
-    )
-    st.caption("Cruzamento: as 3 tabelas de saneamento (6803, 6805, 6892) entre si.")
-
-with tab6:
-    st.markdown("#### 🔎 Até os melhores têm esgoto ruim")
-    melhores10 = filtrado[filtrado["categoria_desempenho"] == "Entre os 10 melhores"].sort_values("indice_deficit")
+with tab_melhores:
+    st.markdown("#### Até os melhores têm esgoto ruim")
+    melhores10 = filtrado[
+        filtrado["categoria_desempenho"] == "Entre os 10 melhores"
+    ].sort_values("indice_deficit")
     if melhores10.empty:
-        st.warning("Nenhum dos 10 melhores municípios do estado está no recorte filtrado atual.")
+        st.warning(
+            "Nenhum dos 10 melhores municípios do estado está no recorte "
+            "filtrado atual."
+        )
     else:
         fig_melhores = px.bar(
             melhores10.melt(
                 id_vars="municipio",
-                value_vars=["pct_agua_sem_rede", "pct_esgoto_inadequado", "pct_lixo_inadequado"],
+                value_vars=[
+                    "pct_agua_sem_rede",
+                    "pct_esgoto_inadequado",
+                    "pct_lixo_inadequado",
+                ],
                 var_name="dimensao", value_name="pct",
             ),
             x="municipio", y="pct", color="dimensao", barmode="group",
@@ -482,67 +571,37 @@ with tab6:
             },
             labels={"pct": "%", "municipio": "", "dimensao": "Dimensão"},
         )
+        fig_melhores.update_traces(texttemplate="%{y:.2f}%", textposition="outside")
         st.plotly_chart(fig_melhores, width="stretch")
-        razao_top10 = melhores10["pct_esgoto_inadequado"].mean() / (
-            (melhores10["pct_agua_sem_rede"].mean() + melhores10["pct_lixo_inadequado"].mean()) / 2
-        )
-        st.warning(
-            f"Mesmo nos 10 municípios com menor índice de déficit, esgoto inadequado "
-            f"(**{melhores10['pct_esgoto_inadequado'].mean():.2f}%**) é **{razao_top10:.2f}x pior** que a "
-            "média de água e lixo entre eles. **Nota metodológica:** este insight usa só a "
-            "tabela de esgoto filtrada por um recorte do próprio índice — não é um "
-            "cruzamento entre bases novo, é um reforço do achado sobre esgoto ser o gargalo "
-            "mais grave (seção de KPIs). Vale deixar essa ressalva clara se o professor perguntar quantos "
-            "insights vêm de cruzamento de verdade."
+        st.info(
+            f"Esgoto inadequado nos 10 melhores: "
+            f"{melhores10['pct_esgoto_inadequado'].mean():.2f}%."
         )
 
 st.divider()
 
-st.header("🧭 Revisão metodológica")
-st.markdown("#### 🔎 As 8 categorias de esgotamento sanitário")
-
-cats_map = {
-    "Rede geral ou pluvial": "esg_rede",
-    "Fossa séptica ligada": "esg_fossa_lig",
-    "Fossa séptica não ligada": "esg_fossa_nlig",
-    "Fossa rudimentar/buraco": "esg_rudimentar",
-    "Vala": "esg_vala",
-    "Rio/lago/córrego/mar": "esg_rio",
-    "Outra forma": "esg_outra",
-    "Sem banheiro": "esg_sem_ban",
-}
-soma = {k: filtrado[v].sum() for k, v in cats_map.items()}
-total = sum(soma.values())
-df_cats = pd.DataFrame({
-    "categoria": list(soma.keys()),
-    "pct": [100 * v / total for v in soma.values()],
-}).sort_values("pct")
-classificacao_atual = {
-    "Rede geral ou pluvial": "Adequado", "Fossa séptica ligada": "Adequado",
-    "Fossa séptica não ligada": "Indefinido", "Outra forma": "Indefinido",
-    "Fossa rudimentar/buraco": "Inadequado", "Vala": "Inadequado",
-    "Rio/lago/córrego/mar": "Inadequado", "Sem banheiro": "Inadequado",
-}
-df_cats["classificacao"] = df_cats["categoria"].map(classificacao_atual)
-fig_cats = px.bar(
-    df_cats, x="pct", y="categoria", orientation="h", color="classificacao",
-    color_discrete_map={"Adequado": "#1baf7a", "Indefinido": "#9e9e9e", "Inadequado": "#c0392b"},
-    labels={"pct": "% dos domicílios (recorte atual)", "categoria": "", "classificacao": "Classificação atual"},
+# --- 4) Correlação entre dimensões -----------------------------------------
+st.subheader("🔬 Correlação entre dimensões")
+st.markdown("#### Correlação entre água, esgoto e lixo")
+corr_dim = filtrado[
+    ["pct_agua_sem_rede", "pct_esgoto_inadequado", "pct_lixo_inadequado"]
+].corr().round(2)
+fig_corr = px.imshow(
+    corr_dim, text_auto=True, color_continuous_scale="RdBu_r",
+    zmin=-1, zmax=1, labels=dict(color="Correlação"),
+    x=["Água", "Esgoto", "Lixo"], y=["Água", "Esgoto", "Lixo"],
 )
-st.plotly_chart(fig_cats, width="stretch")
-
-pct_indefinido = df_cats.loc[df_cats["classificacao"] == "Indefinido", "pct"].sum()
-st.warning(
-    f"Hoje o indicador `pct_esgoto_inadequado` usa só 4 das 8 categorias "
-    f"(rudimentar, vala, rio, sem banheiro). **Fossa séptica não ligada** e "
-    f"**outra forma** somam **{pct_indefinido:.2f}%** dos domicílios do recorte "
-    "e ainda não têm classificação definida pela equipe — decidir isso antes "
-    "da entrega final e, se mudar, ajustar o cálculo de `pct_esgoto_inadequado` "
-    "e do `indice_deficit`."
+st.plotly_chart(fig_corr, width="stretch")
+st.info(
+    "A matriz apresenta as correlações lineares entre as três dimensões. "
+    "Correlação não implica causalidade."
 )
 
 st.divider()
 
+# ---------------------------------------------------------------------------
+# Fontes e metodologia
+# ---------------------------------------------------------------------------
 with st.expander("Fontes e metodologia"):
     st.markdown(
         """
@@ -560,16 +619,15 @@ with st.expander("Fontes e metodologia"):
 conforme a convenção do SIDRA (Apêndice A do documento do projeto). Não
 foram encontrados os símbolos `X`, `..` ou `...` nestas 4 tabelas.
 
-**Os 9 insights deste protótipo:**
-1. Esgoto é o gargalo mais grave dos três (KPIs)
-2. Descompasso entre água e esgoto (Cruzamento: 6803 × 6805)
-3. Proximidade com a capital não garante esgoto melhor (Cruzamento: malha × 6805)
-4. Lixo mal destinado cai com a densidade (Cruzamento: 6892 × 4714)
-5. Padrão geográfico do índice de déficit (Comparação territorial)
-6. Revisão das 8 categorias de esgotamento sanitário (só tabela 6805)
-7. O paradoxo de Fortaleza — melhor taxa, maior concentração absoluta (Cruzamento: 4714 × 6805)
-8. Esgoto anda por conta própria — correlação fraca com água e lixo (Cruzamento entre as 3 tabelas)
-9. Até os melhores têm esgoto ruim — reforço do Insight 1, **não** é cruzamento novo (só tabela 6805)
+**Organização final das análises:**
+1. Revisão metodológica — categorias de água, esgoto e lixo (3 abas)
+2. KPIs gerais
+3. Comparação territorial e municípios prioritários
+4. Cruzamentos entre bases (um por seção):
+   a) Concentração por km² + lixo e densidade (abas)
+   b) Água x esgoto
+   c) Distância até Fortaleza + até os melhores têm esgoto ruim (abas)
+   d) Correlação entre dimensões
 
 **Limitações:**
 - O índice de déficit é uma construção exploratória da equipe (média
