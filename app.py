@@ -387,11 +387,7 @@ for tab, (coluna, rotulo) in mapas_territorio.items():
         st.plotly_chart(fig_terr, width="stretch")
         if coluna == "indice_deficit":
             st.info(
-                "Leitura **visual e descritiva** do padrão territorial — nenhum "
-                "algoritmo de agrupamento foi usado aqui (o projeto não permite "
-                "aprendizado de máquina). Observem em equipe se os piores índices "
-                "se concentram em alguma região do estado ou aparecem espalhados, "
-                "e escrevam essa leitura por extenso na apresentação final."
+                "Leitura **visual e descritiva** do padrão territorial"
             )
         else:
             st.caption(
