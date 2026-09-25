@@ -697,9 +697,6 @@ foram encontrados os símbolos `X`, `..` ou `...` nestas 4 tabelas.
   métrica aproximada, EPSG:3857) — serve para comparação relativa entre
   municípios, não para medições cartográficas de precisão.
 - "Fossa séptica não ligada à rede" e "outra forma" ainda não têm
-  classificação definida como adequado/inadequado — ver Insight 6 acima.
-- Das 9 seções de insight, 6 usam cruzamento real entre bases (2, 3, 4,
-  5, 7 e 8); o Insight 9 é uma variação retórica do Insight 1, sem
-  cruzamento novo — deixado assim intencionalmente a pedido da equipe.
+  classificação definida como adequado/inadequado.
         """
     )
