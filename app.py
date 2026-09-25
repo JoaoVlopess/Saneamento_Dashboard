@@ -18,7 +18,6 @@ Organização final das análises:
      a) Concentração por km² + lixo e densidade (abas)
      b) Água x esgoto
      c) Distância até Fortaleza + até os melhores têm esgoto ruim (abas)
-     d) Correlação entre dimensões
 
 Pendências conhecidas: mover esta lógica de carga para notebooks/ + src/
 conforme a arquitetura raw/processed/analytical, e a equipe decidir a
@@ -660,25 +659,6 @@ with tab_melhores:
 
 st.divider()
 
-# --- 4) Correlação entre dimensões -----------------------------------------
-st.subheader("🔬 Correlação entre dimensões")
-st.markdown("#### Correlação entre água, esgoto e lixo")
-corr_dim = filtrado[
-    ["pct_agua_sem_rede", "pct_esgoto_inadequado", "pct_lixo_inadequado"]
-].corr().round(2)
-fig_corr = px.imshow(
-    corr_dim, text_auto=True, color_continuous_scale="RdBu_r",
-    zmin=-1, zmax=1, labels=dict(color="Correlação"),
-    x=["Água", "Esgoto", "Lixo"], y=["Água", "Esgoto", "Lixo"],
-)
-st.plotly_chart(fig_corr, width="stretch")
-st.info(
-    "A matriz apresenta as correlações lineares entre as três dimensões. "
-    "Correlação não implica causalidade."
-)
-
-st.divider()
-
 # ---------------------------------------------------------------------------
 # Fontes e metodologia
 # ---------------------------------------------------------------------------
@@ -707,7 +687,6 @@ foram encontrados os símbolos `X`, `..` ou `...` nestas 4 tabelas.
    a) Concentração por km² + lixo e densidade (abas)
    b) Água x esgoto
    c) Distância até Fortaleza + até os melhores têm esgoto ruim (abas)
-   d) Correlação entre dimensões
 
 **Limitações:**
 - O índice de déficit é uma construção exploratória da equipe (média
