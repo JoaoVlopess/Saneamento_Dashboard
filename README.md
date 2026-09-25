@@ -258,7 +258,7 @@ Se um arquivo não for encontrado, a execução é interrompida com
 
 ### Atenção
 
-`app (1).py` usa:
+`app.py` usa:
 
 ```python
 RAIZ = Path(__file__).resolve().parent.parent
@@ -302,7 +302,7 @@ Foram encontrados:
 
 Nesses arquivos, `-` significa zero absoluto.
 
-Na implementação atual de `app (1).py`, `-` é transformado temporariamente em
+Na implementação atual de `app.py`, `-` é transformado temporariamente em
 `pd.NA` e depois tratado como zero com `fillna(0)` nos cálculos. O efeito
 numérico dos indicadores é zero, mas a representação intermediária mistura
 zero com ausência. O tratamento conceitualmente mais claro seria substituir
@@ -657,7 +657,7 @@ distância ao centroide de Fortaleza é convertida para quilômetros.
 
 ---
 
-## Os nove insights
+## Os oito insights
 
 ### Insight 1 — Esgoto é o principal gargalo
 
@@ -735,20 +735,7 @@ possui aproximadamente:
 O insight demonstra que uma taxa relativamente baixa pode coexistir com uma
 grande quantidade e concentração absoluta.
 
-### Insight 8 — Correlação entre dimensões
-
-É criada uma matriz com os três percentuais:
-
-| Par | Correlação aproximada |
-|---|---:|
-| Água × esgoto | 0,17 |
-| Água × lixo | 0,31 |
-| Esgoto × lixo | 0,36 |
-
-São associações positivas fracas ou moderadas. Correlação não implica
-causalidade e varia com o filtro aplicado.
-
-### Insight 9 — Até os melhores têm esgoto ruim
+### Insight 8 — Até os melhores têm esgoto ruim
 
 Seleciona os dez menores índices e compara as três dimensões. Nesse grupo, as
 médias são aproximadamente:
@@ -891,7 +878,6 @@ poucos municípios pode produzir valores instáveis ou `NaN`.
 
 ```text
 Trabalho1Saneamento/
-├── app (1).py
 ├── app.py
 ├── requirements.txt
 ├── README.md
