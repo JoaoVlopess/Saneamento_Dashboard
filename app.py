@@ -235,7 +235,10 @@ st.markdown("#### 🔎 Categorias consideradas nas três dimensões")
 tab_agua_cat, tab_esgoto_cat, tab_lixo_cat = st.tabs(["Água", "Esgoto", "Lixo"])
 
 
-def mostrar_categorias(categorias, titulo_eixo):
+CORES_CLASSIFICACAO = {"Adequado": "#1baf7a", "Indefinido": "#9e9e9e", "Inadequado": "#c0392b"}
+
+
+def mostrar_categorias(categorias, classificacao):
     soma = {k: filtrado[v].fillna(0).sum() for k, v in categorias.items()}
     total = sum(soma.values())
     if total == 0:
@@ -245,9 +248,11 @@ def mostrar_categorias(categorias, titulo_eixo):
         "categoria": list(soma.keys()),
         "pct": [round(100 * v / total, 2) for v in soma.values()],
     }).sort_values("pct")
+    df_cat["classificacao"] = df_cat["categoria"].map(classificacao)
     fig = px.bar(
-        df_cat, x="pct", y="categoria", orientation="h",
-        labels={"pct": "% dos domicílios (recorte atual)", "categoria": ""},
+        df_cat, x="pct", y="categoria", orientation="h", color="classificacao",
+        color_discrete_map=CORES_CLASSIFICACAO,
+        labels={"pct": "% dos domicílios (recorte atual)", "categoria": "", "classificacao": "Classificação atual"},
     )
     fig.update_traces(texttemplate="%{x:.2f}%", textposition="outside")
     fig.update_layout(height=max(350, 55 * len(df_cat)))
@@ -255,11 +260,18 @@ def mostrar_categorias(categorias, titulo_eixo):
 
 
 with tab_agua_cat:
-    mostrar_categorias({
-        "Rede geral": "agua_rede_usa",
-        "Outra forma de abastecimento por rede": "agua_rede_outra",
-        "Sem rede geral": "agua_sem_rede",
-    }, "Água")
+    mostrar_categorias(
+        {
+            "Rede geral": "agua_rede_usa",
+            "Outra forma de abastecimento por rede": "agua_rede_outra",
+            "Sem rede geral": "agua_sem_rede",
+        },
+        {
+            "Rede geral": "Adequado",
+            "Outra forma de abastecimento por rede": "Indefinido",
+            "Sem rede geral": "Inadequado",
+        },
+    )
     st.caption(
         "Distribuição das categorias de abastecimento de água utilizadas "
         "no cálculo do indicador."
@@ -276,7 +288,12 @@ with tab_esgoto_cat:
         "Outra forma": "esg_outra",
         "Sem banheiro": "esg_sem_ban",
     }
-    mostrar_categorias(cats_map, "Esgoto")
+    mostrar_categorias(cats_map, {
+        "Rede geral ou pluvial": "Adequado", "Fossa séptica ligada": "Adequado",
+        "Fossa séptica não ligada": "Indefinido", "Outra forma": "Indefinido",
+        "Fossa rudimentar/buraco": "Inadequado", "Vala": "Inadequado",
+        "Rio/lago/córrego/mar": "Inadequado", "Sem banheiro": "Inadequado",
+    })
     st.caption(
         "Classificação atual da equipe: as categorias 'Fossa séptica não ligada' "
         "e 'Outra forma' permanecem indefinidas e não entram em "
@@ -284,17 +301,27 @@ with tab_esgoto_cat:
     )
 
 with tab_lixo_cat:
-    mostrar_categorias({
-        "Coletado": "lixo_coletado_dom",
-        "Caçamba": "lixo_cacamba",
-        "Queimado": "lixo_queimado",
-        "Enterrado": "lixo_enterrado",
-        "Terreno baldio": "lixo_terreno_baldio",
-        "Outro destino": "lixo_outro",
-    }, "Lixo")
+    mostrar_categorias(
+        {
+            "Coletado": "lixo_coletado_dom",
+            "Caçamba": "lixo_cacamba",
+            "Queimado": "lixo_queimado",
+            "Enterrado": "lixo_enterrado",
+            "Terreno baldio": "lixo_terreno_baldio",
+            "Outro destino": "lixo_outro",
+        },
+        {
+            "Coletado": "Adequado",
+            "Caçamba": "Adequado",
+            "Queimado": "Inadequado",
+            "Enterrado": "Inadequado",
+            "Terreno baldio": "Inadequado",
+            "Outro destino": "Indefinido",
+        },
+    )
     st.caption(
         "A classificação de 'lixo inadequado' usada no índice considera "
-        "queimado, enterrado e terreno baldio."
+        "queimado, enterrado e terreno baldio; 'outro destino' permanece indefinido."
     )
 
 st.divider()
@@ -321,10 +348,10 @@ c4.metric(
 
 fig_comparacao = px.bar(
     pd.DataFrame({
-        "dimensao": ["Água sem rede", "Esgoto sem rede geral", "Lixo inadequado"],
+        "dimensao": ["Água sem rede", "Esgoto inadequado", "Lixo inadequado"],
         "pct": [
             base["pct_agua_sem_rede"].mean(),
-            100 - base["pct_esgoto_rede"].mean(),
+            base["pct_esgoto_inadequado"].mean(),
             base["pct_lixo_inadequado"].mean(),
         ],
     }),
