@@ -32,7 +32,7 @@ SIDRA/IBGE e da malha municipal de 2022.
 14. [Classificação dos municípios](#classificação-dos-municípios)
 15. [Interface e filtros](#interface-e-filtros)
 16. [Mapas e análise territorial](#mapas-e-análise-territorial)
-17. [Os nove insights](#os-nove-insights)
+17. [Os nove insights](#os-oito-insights)
 18. [Leitura das categorias](#leitura-das-categorias)
 19. [Validações](#validações)
 20. [Pontos de atenção](#pontos-de-atenção)
